@@ -1,0 +1,23 @@
+<header>
+    <a class="show">Show</a>
+</header>
+
+<div class="content">
+
+<p>Adding Spellings</p>
+
+    <form class="form-search">
+        Terms:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <input name="term" type="text">
+        <button id="add_btn" type="submit" class="btn">Add</button>
+    </form>
+
+    <br>
+
+    <% if @spellings().all().length: %>
+    <p>spellings:</p>
+
+        <% for spell in @spellings().all(): %>
+            <p><%= spell.term %></p>
+        <% end %>
+    <% end %>
+</div>

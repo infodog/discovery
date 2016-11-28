@@ -1,0 +1,15 @@
+<tr class="item">
+	<td><input type="text" class="input-small" placeholder="field" value="<%= @name %>"></td>
+	<td>
+		<select>
+			<option>term</option>
+		    <option>text</option>
+		</select>
+	</td>
+	<td><input checked="true" type="checkbox"></td>
+	<td><input type="checkbox"></td>
+	<td><input type="checkbox"></td>
+	<td><input type="text" class="input-small" placeholder="field"></td>
+	<td>test</td>
+	<td><i name="removeField" class="icon-remove-sign"></i></td>
+</tr>

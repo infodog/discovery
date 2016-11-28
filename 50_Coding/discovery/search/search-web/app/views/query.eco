@@ -1,0 +1,10 @@
+<header>
+	<a class="show">Show</a>
+</header>
+
+<form class="form-search">
+<input id="keyword" type="text" class="input-medium search-query">
+<button id="search_btn" type="submit" class="btn">Search</button>
+</form>
+
+<div id="results"></div>

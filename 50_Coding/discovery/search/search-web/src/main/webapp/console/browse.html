@@ -1,0 +1,52 @@
+<html>
+<head>
+<title>Client Authentication Example</title>
+	<script type="text/javascript" src="js/json2.js"></script>
+	<script type="text/javascript" src="js/localstorage.js"></script>
+	<script type="text/javascript" src="js/modernizr-2.5.3.min.js"></script>
+	<script type="text/javascript" src="js/jquery.min.js"></script>
+	<script type="text/javascript" src="js/jso.js"></script>
+	<script type="text/javascript">
+	$(document).ready(function() {
+
+		// Add configuration for one or more providers.
+		jso_configure({
+			"uaa": {
+				client_id: "my",
+				redirect_uri: window.location,
+				authorization: "http://localhost:8080/uaa/oauth/authorize",
+				presenttoken:"qs"
+			}
+		});
+
+		// Perform a data request
+		$.oajax({
+			url: "http://localhost:8080/api/test.jsp",
+			jso_provider: "uaa",
+			jso_scopes: ["cloud_controller.read","openid"],
+			jso_allowia: true, 
+			dataType : 'jsonp',
+			jsonp : 'jsonpcallback',
+			success: function(data) {
+				console.log({response:data});
+				$('#message').html(JSON.stringify(data));
+			}
+		});
+
+		jso_wipe();
+
+	});
+</script>
+</head>
+<body>
+	<h1>Client Authentication Sample</h1>
+
+	<div id="content">
+		<p>Some JavaScript in this page will log you in as client app "my" acting on
+			behalf of a user. Once you have authenticated as a user and approved the
+			access, it will render JSON representation of your apps from the API Resource Server below:</p>
+		<p id="message" />
+	</div>
+
+</body>
+</html>

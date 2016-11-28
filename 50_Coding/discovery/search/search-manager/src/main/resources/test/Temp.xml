@@ -1,0 +1,1249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+    <lst name="responseHeader">
+        <int name="status">0</int>
+        <int name="QTime">1</int>
+        <lst name="params">
+            <str name="facet">true</str>
+            <str name="start">0</str>
+            <str name="q">*:*</str>
+            <str name="facet.field">type</str>
+            <str name="wt">xml</str>
+            <str name="rows">1</str>
+        </lst>
+    </lst>
+    <result name="response" numFound="13442" start="0">
+        <doc>
+            <str name="id">saasAccount_50000:::c_promotionLogo</str>
+            <str name="merchant_store">saasAccount_50000</str>
+            <str name="zz_content_store">
+                {"id":"c_promotionLogo","parentId":"col_m_SettingRoot","title":"??????","name":"??????","columntype":"coltype_sysargument","pos":112}
+            </str>
+            <str name="type_store">c</str>
+            <long name="_version_">1424307706894745600</long>
+        </doc>
+    </result>
+    <lst name="facet_counts">
+        <lst name="facet_queries"/>
+        <lst name="facet_fields">
+            <lst name="type">
+                <int name="c_region">6498</int>
+                <int name="ActionFinder">1780</int>
+                <int name="ColumnFinder">1780</int>
+                <int name="coltype">174</int>
+                <int name="module">158</int>
+                <int name="ctmpl_113">99</int>
+                <int name="pdm">88</int>
+                <int name="LogAction_system">74</int>
+                <int name="col">70</int>
+                <int name="user_industry">66</int>
+                <int name="c">64</int>
+                <int name="advplace_page">62</int>
+                <int name="auto_110">62</int>
+                <int name="ctmpl_110">62</int>
+                <int name="advplace_110">60</int>
+                <int name="advplace_113">57</int>
+                <int name="ctmpl_000">54</int>
+                <int name="coltype_m">48</int>
+                <int name="module_m">46</int>
+                <int name="auto_113">45</int>
+                <int name="ActionFinder_/OurHome/modules/product/M">42</int>
+                <int name="ColumnFinder_/OurHome/modules/product/M">42</int>
+                <int name="advplace_101">42</int>
+                <int name="auto_101">42</int>
+                <int name="payi">42</int>
+                <int name="col_m">38</int>
+                <int name="notice">38</int>
+                <int name="LogAction_products">32</int>
+                <int name="ObjLogType">30</int>
+                <int name="c_shopAdvertising">28</int>
+                <int name="ctmpl_100">28</int>
+                <int name="ctmpl_101">28</int>
+                <int name="advplace_100">26</int>
+                <int name="sv">26</int>
+                <int name="c_o_1000">24</int>
+                <int name="ctmpl_103">24</int>
+                <int name="ctmpl_104">24</int>
+                <int name="ctmpl_105">24</int>
+                <int name="col_m_CustomerService">23</int>
+                <int name="ActionFinder_/OurHome/modules/groupon/M">22</int>
+                <int name="ActionFinder_/OurHome/modules/panicbuy/M">22</int>
+                <int name="ActionFinder_/OurHome/modules/trialon/M">22</int>
+                <int name="ColumnFinder_/OurHome/modules/groupon/M">22</int>
+                <int name="ColumnFinder_/OurHome/modules/panicbuy/M">22</int>
+                <int name="ColumnFinder_/OurHome/modules/trialon/M">22</int>
+                <int name="attr">22</int>
+                <int name="auto_100">22</int>
+                <int name="c_m">22</int>
+                <int name="c_o_m_1000">22</int>
+                <int name="ctmpl_102">22</int>
+                <int name="ctmpl_111">22</int>
+                <int name="LogType_system">20</int>
+                <int name="auto_auto_111_001_layout">20</int>
+                <int name="workspace_m">20</int>
+                <int name="ctmpl">18</int>
+                <int name="tmpl">18</int>
+                <int name="c_card">16</int>
+                <int name="c_m_card">16</int>
+                <int name="user_education">16</int>
+                <int name="">14</int>
+                <int name="advplace">14</int>
+                <int name="advplace_103">14</int>
+                <int name="advplace_105">14</int>
+                <int name="attrtype">14</int>
+                <int name="workspace">14</int>
+                <int name="LogAction_businessRule">12</int>
+                <int name="OrderRelatedList">12</int>
+                <int name="OrderStateAutoDeal">12</int>
+                <int name="OrderStateDispatchRule_common">12</int>
+                <int name="OrderStateModifyRule_common">12</int>
+                <int name="OrderStateModifyRule_platform">12</int>
+                <int name="OrderStateModifyRule_user">12</int>
+                <int name="advplace_104">12</int>
+                <int name="c_plan">12</int>
+                <int name="c_sms">12</int>
+                <int name="col_sysargument">12</int>
+                <int name="head_merchant_col_promotionLogo_key">12</int>
+                <int name="mailNormalQueProcessTig">12</int>
+                <int name="mailQuickQueProcessTig">12</int>
+                <int name="smsinterface">12</int>
+                <int name="advplace_102">10</int>
+                <int name="auto_105">10</int>
+                <int name="col_m_Promotional">10</int>
+                <int name="user_income">10</int>
+                <int name="ActionFinder_/OurHome/modules/product/m">8</int>
+                <int name="ColumnFinder_/OurHome/modules/product/m">8</int>
+                <int name="advplace_111">8</int>
+                <int name="attrgrp">8</int>
+                <int name="c_brand">8</int>
+                <int name="c_email">8</int>
+                <int name="c_o_1004">8</int>
+                <int name="c_o_m_1004">8</int>
+                <int name="col_Log">8</int>
+                <int name="col_Service">8</int>
+                <int name="col_m_MerchantInfo">8</int>
+                <int name="col_privilege">8</int>
+                <int name="coltype_m_order_refund">8</int>
+                <int name="coltype_order_refund">8</int>
+                <int name="module_m_order_refund">8</int>
+                <int name="module_order_refund">8</int>
+            </lst>
+        </lst>
+        <lst name="facet_dates"/>
+        <lst name="facet_ranges"/>
+    </lst>
+</response>
+
+        <?xml version="1.0" encoding="UTF-8"?>
+<response>
+<lst name="responseHeader">
+    <int name="status">0</int>
+    <int name="QTime">12</int>
+    <lst name="params">
+        <str name="start">0</str>
+        <str name="q">{!lucene q.op=AND df=content_text} *:* type:u</str>
+        <str name="stats">true</str>
+        <str name="stats.field">isAdmin</str>
+        <str name="wt">xml</str>
+        <str name="rows">10</str>
+    </lst>
+</lst>
+<result name="response" numFound="2" start="0">
+    <doc>
+        <str name="merchant_store">saasAccount_50000</str>
+        <str name="type_store">u</str>
+        <str name="id">u_100</str>
+        <str name="content_store">
+            {"lastModifiedTime":"1350962455412","id":"u_100","createTime":"1350962455380","loginId":"madmin","lastModifiedUserId":"u_sys","memberGroups":{"c_102_group":{"createTime":"1350962455409","groupId":"c_101","allGroupId":"c_101;"}},"random":"0.34054610997513435","isAdmin":"0","realName":"?????","passwordhash":"zl6g6NKvm6RzzWMnEuZ53S/M","createUserId":"u_100"}
+        </str>
+        <long name="_version_">1424467640638767105</long>
+    </doc>
+    <doc>
+        <str name="merchant_store">saasAccount_80000</str>
+        <str name="type_store">u</str>
+        <str name="id">u_0</str>
+        <str name="content_store">
+            {"id":"u_0","lastModifiedTime":"1351231821758","loginId":"root","isEnable":"1","createTime":"1272448368046","lastModifiedUserId":"u_0","random":"0.14304481404193248","gender":"2","realName":"???","isAdmin":"1","passwordhash":"fcehsIo4y0BrneH21m3C2USM","marriage":"0","lastLoginLog":{"lastLoginIP":"127.0.0.1","nowLoginIP":"127.0.0.1","nowLoginTime":"1351231821758","lastLoginTime":"1351230953978"}}
+        </str>
+        <long name="_version_">1424467642331168770</long>
+    </doc>
+</result>
+<lst name="stats">
+    <lst name="stats_fields">
+        <lst name="isAdmin">
+            <str name="min">0</str>
+            <str name="max">1</str>
+            <long name="count">2</long>
+            <long name="missing">0</long>
+            <lst name="facets"/>
+        </lst>
+    </lst>
+</lst>
+</response>
+
+
+        <?xml version="1.0" encoding="UTF-8"?>
+<response>
+<lst name="responseHeader">
+    <int name="status">0</int>
+    <int name="QTime">1</int>
+    <lst name="params">
+        <str name="facet">true</str>
+        <str name="facet.offset">0</str>
+        <str name="facet.mincount">1</str>
+        <str name="start">0</str>
+        <str name="stats">true</str>
+        <str name="stats.field">pos</str>
+        <str name="q">{!lucene q.op=AND df=content_text} type:c</str>
+        <str name="facet.limit">20</str>
+        <str name="stats.facet">pos</str>
+        <str name="facet.field">type</str>
+        <str name="wt">xml</str>
+        <str name="rows">10</str>
+    </lst>
+</lst>
+<result name="response" numFound="33" start="0">
+    <doc>
+        <long name="createTime_l">1350962646863</long>
+        <str name="merchant_store">saasAccount_50000</str>
+        <str name="type_store">c</str>
+        <str name="id">c_50000</str>
+        <str name="content_store">
+            {"id":"c_50000","createTime":1350962646863,"parentId":"c_brand_00001","title":"I","isBlankLink":"1","name":"I","merchantId":"head_merchant","columntype":"coltype_brandSortMgt","pos":"100","creator":"u_0","isShow":"1"}
+        </str>
+        <long name="_version_">1424760319134138369</long>
+    </doc>
+    <doc>
+        <long name="createTime_l">1350962747213</long>
+        <str name="merchant_store">saasAccount_50000</str>
+        <str name="type_store">c</str>
+        <str name="id">c_50001</str>
+        <str name="content_store">
+            {"id":"c_50001","createTime":1350962747213,"parentId":"c_10000","title":"saas??","isBlankLink":"1","columnPath":"?????|c_10000||saas??|c_50001","name":"saas??","merchantId":"head_merchant","columntype":"coltype_standardProduct","creator":"u_0","isShow":"1","pos":"100"}
+        </str>
+        <long name="_version_">1424760319135186944</long>
+    </doc>
+    <doc>
+        <str name="id">c_promotionLogo</str>
+        <str name="content_store">
+            {"id":"c_promotionLogo","parentId":"col_m_SettingRoot","title":"??????","name":"??????","columntype":"coltype_sysargument","pos":112}
+        </str>
+        <str name="merchant_store">saasAccount_80000</str>
+        <str name="type_store">c</str>
+        <int name="pos_i">112</int>
+        <long name="_version_">1424760319178178562</long>
+    </doc>
+    <doc>
+        <str name="id">c_9959</str>
+        <str name="content_store">
+            {"id":"c_9959","parentId":"col_SettingRoot","title":"????","name":"????","columntype":"coltype_Default","pos":100}
+        </str>
+        <str name="merchant_store">saasAccount_80000</str>
+        <str name="type_store">c</str>
+        <int name="pos_i">100</int>
+        <long name="_version_">1424760319179227136</long>
+    </doc>
+    <doc>
+        <str name="id">c_9960</str>
+        <str name="content_store">
+            {"id":"c_9960","parentId":"c_9959","title":"??????","name":"??????","columntype":"coltype_payInterface","pos":100}
+        </str>
+        <str name="merchant_store">saasAccount_80000</str>
+        <str name="type_store">c</str>
+        <int name="pos_i">100</int>
+        <long name="_version_">1424760319179227137</long>
+    </doc>
+    <doc>
+        <str name="id">c_100</str>
+        <str name="content_store">
+            {"id":"c_100","parentId":"col_MemberRoot","title":"??????","name":"??????","columntype":"coltype_Default","pos":"101"}
+        </str>
+        <str name="merchant_store">saasAccount_80000</str>
+        <str name="type_store">c</str>
+        <long name="_version_">1424760319381602307</long>
+    </doc>
+    <doc>
+        <str name="id">c_siteLetter</str>
+        <str name="content_store">
+            {"id":"c_siteLetter","parentId":"col_MarketingRoot","title":"???","name":"???","columntype":"coltype_Default","pos":"104"}
+        </str>
+        <str name="merchant_store">saasAccount_80000</str>
+        <str name="type_store">c</str>
+        <long name="_version_">1424760319381602310</long>
+    </doc>
+    <doc>
+        <str name="merchant_store">saasAccount_80000</str>
+        <str name="type_store">c</str>
+        <int name="pos_i">100</int>
+        <str name="id">c_sendSiteLetter</str>
+        <str name="content_store">
+            {"id":"c_sendSiteLetter","parentId":"c_siteLetter","title":"?????","messageTypeId":"type_sendLetter","name":"?????","columntype":"coltype_messageLetterMgt","pos":100}
+        </str>
+        <long name="_version_">1424760319381602311</long>
+    </doc>
+    <doc>
+        <str name="merchant_store">saasAccount_80000</str>
+        <str name="type_store">c</str>
+        <int name="pos_i">101</int>
+        <str name="id">c_receiverSiteLetter</str>
+        <str name="content_store">
+            {"id":"c_receiverSiteLetter","parentId":"c_siteLetter","title":"?????","messageTypeId":"type_receiverLetter","name":"?????","columntype":"coltype_m_messageMgt","pos":101}
+        </str>
+        <long name="_version_">1424760319382650880</long>
+    </doc>
+    <doc>
+        <str name="id">c_PageSEO</str>
+        <str name="content_store">
+            {"id":"c_PageSEO","parentId":"col_SettingRoot","title":"??SEO??","name":"??SEO??","columntype":"coltype_PageSEO","pos":"109"}
+        </str>
+        <str name="merchant_store">saasAccount_80000</str>
+        <str name="type_store">c</str>
+        <long name="_version_">1424760319425642500</long>
+    </doc>
+</result>
+<lst name="facet_counts">
+    <lst name="facet_queries"/>
+    <lst name="facet_fields">
+        <lst name="type">
+            <int name="c">33</int>
+        </lst>
+    </lst>
+    <lst name="facet_dates"/>
+    <lst name="facet_ranges"/>
+</lst>
+<lst name="stats">
+    <lst name="stats_fields">
+        <lst name="pos">
+            <str name="min">100</str>
+            <str name="max">999</str>
+            <long name="count">20</long>
+            <long name="missing">13</long>
+            <lst name="facets">
+                <lst name="pos">
+                    <lst name="700">
+                        <str name="min">700</str>
+                        <str name="max">700</str>
+                        <long name="count">1</long>
+                        <long name="missing">0</long>
+                        <lst name="facets"/>
+                    </lst>
+                    <lst name="109">
+                        <str name="min">109</str>
+                        <str name="max">109</str>
+                        <long name="count">1</long>
+                        <long name="missing">0</long>
+                        <lst name="facets"/>
+                    </lst>
+                    <lst name="200">
+                        <str name="min">200</str>
+                        <str name="max">200</str>
+                        <long name="count">1</long>
+                        <long name="missing">0</long>
+                        <lst name="facets"/>
+                    </lst>
+                    <lst name="120">
+                        <str name="min">120</str>
+                        <str name="max">120</str>
+                        <long name="count">1</long>
+                        <long name="missing">0</long>
+                        <lst name="facets"/>
+                    </lst>
+                    <lst name="104">
+                        <str name="min">104</str>
+                        <str name="max">104</str>
+                        <long name="count">1</long>
+                        <long name="missing">0</long>
+                        <lst name="facets"/>
+                    </lst>
+                    <lst name="102">
+                        <str name="min">102</str>
+                        <str name="max">102</str>
+                        <long name="count">1</long>
+                        <long name="missing">0</long>
+                        <lst name="facets"/>
+                    </lst>
+                    <lst name="101">
+                        <str name="min">101</str>
+                        <str name="max">101</str>
+                        <long name="count">1</long>
+                        <long name="missing">0</long>
+                        <lst name="facets"/>
+                    </lst>
+                    <lst name="100">
+                        <str name="min">100</str>
+                        <str name="max">100</str>
+                        <long name="count">12</long>
+                        <long name="missing">0</long>
+                        <lst name="facets"/>
+                    </lst>
+                    <lst name="999">
+                        <str name="min">999</str>
+                        <str name="max">999</str>
+                        <long name="count">1</long>
+                        <long name="missing">0</long>
+                        <lst name="facets"/>
+                    </lst>
+                </lst>
+            </lst>
+        </lst>
+    </lst>
+</lst>
+</response>
+
+        <?xml version="1.0" encoding="UTF-8"?>
+<response>
+<lst name="responseHeader">
+    <int name="status">0</int>
+    <int name="QTime">1</int>
+    <lst name="params">
+        <str name="facet">true</str>
+        <str name="facet.offset">0</str>
+        <str name="facet.mincount">1</str>
+        <str name="start">0</str>
+        <str name="q">{!lucene q.op=AND df=content_text} *:*</str>
+        <str name="facet.limit">2000</str>
+        <str name="facet.field">type</str>
+        <str name="wt">xml</str>
+        <str name="rows">10</str>
+    </lst>
+</lst>
+<result name="response" numFound="5197" start="0">
+    <doc>
+        <str name="id">saasAccount_100002:::AccountTypes</str>
+        <str name="content_store">
+            {"accountType_shoppingIntegral":{"id":"shoppingIntegral","name":"积分"},"accountType_eWallet":{"id":"eWallet","name":"预存款"}}
+        </str>
+        <str name="merchant_store">saasAccount_100002</str>
+        <str name="type_store">AccountTypes</str>
+        <long name="_version_">1425400134854770688</long>
+    </doc>
+    <doc>
+        <str name="id">ActionFinder_/OurHome/modules/apiApp/delApiApp.jsp</str>
+        <str name="content_store">
+            {"id":"ActionFinder_/OurHome/modules/apiApp/delApiApp.jsp","moduleId":"module_apiApp","finder":"net.xinshi.isone.modules.privilege.privilegefinder.impl.NormalActionFinder","actionId":"apiAppList"}
+        </str>
+        <str name="merchant_store">saasAccount_100002</str>
+        <str name="type_store">ActionFinder</str>
+        <long name="_version_">1425400134950191104</long>
+    </doc>
+    <doc>
+        <str name="id">ActionFinder_/OurHome/modules/apiApp/getApiApp.jsp</str>
+        <str name="content_store">
+            {"id":"ActionFinder_/OurHome/modules/apiApp/getApiApp.jsp","moduleId":"module_apiApp","finder":"net.xinshi.isone.modules.privilege.privilegefinder.impl.NormalActionFinder","actionId":"apiAppList"}
+        </str>
+        <str name="merchant_store">saasAccount_100002</str>
+        <str name="type_store">ActionFinder</str>
+        <long name="_version_">1425400134953336832</long>
+    </doc>
+    <doc>
+        <str name="id">ActionFinder_/OurHome/modules/afterservice/updateOrderState.jsp</str>
+        <str name="content_store">
+            {"id":"ActionFinder_/OurHome/modules/afterservice/updateOrderState.jsp","finder":"net.xinshi.isone.modules.privilege.privilegefinder.impl.NormalActionFinder","actionId":"orderList_returnProduct"}
+        </str>
+        <str name="merchant_store">saasAccount_100002</str>
+        <str name="type_store">ActionFinder</str>
+        <long name="_version_">1425400134956482560</long>
+    </doc>
+    <doc>
+        <str name="id">ActionFinder_/OurHome/modules/afterservice/returnProductOrderList.jsp</str>
+        <str name="content_store">
+            {"id":"ActionFinder_/OurHome/modules/afterservice/returnProductOrderList.jsp","finder":"net.xinshi.isone.modules.privilege.privilegefinder.impl.NormalActionFinder","actionId":"orderList_returnProduct"}
+        </str>
+        <str name="merchant_store">saasAccount_100002</str>
+        <str name="type_store">ActionFinder</str>
+        <long name="_version_">1425400134959628288</long>
+    </doc>
+    <doc>
+        <str name="id">ActionFinder_/OurHome/modules/afterservice/updateOrder.jsp</str>
+        <str name="content_store">
+            {"id":"ActionFinder_/OurHome/modules/afterservice/updateOrder.jsp","finder":"net.xinshi.isone.modules.privilege.privilegefinder.impl.NormalActionFinder","actionId":"updateOrder"}
+        </str>
+        <str name="merchant_store">saasAccount_100002</str>
+        <str name="type_store">ActionFinder</str>
+        <long name="_version_">1425400134962774016</long>
+    </doc>
+    <doc>
+        <str name="id">ActionFinder_/OurHome/modules/afterservice/neworder/Load_Barter2OrderInfo.jsp</str>
+        <str name="content_store">
+            {"id":"ActionFinder_/OurHome/modules/afterservice/neworder/Load_Barter2OrderInfo.jsp","finder":"net.xinshi.isone.modules.privilege.privilegefinder.impl.NormalActionFinder","actionId":"orderList_returnProduct"}
+        </str>
+        <str name="merchant_store">saasAccount_100002</str>
+        <str name="type_store">ActionFinder_/OurHome/modules/afterservice/neworder/Load</str>
+        <long name="_version_">1425400134965919744</long>
+    </doc>
+    <doc>
+        <str name="id">ActionFinder_/OurHome/modules/afterservice/getBarterProductList.jsp</str>
+        <str name="content_store">
+            {"id":"ActionFinder_/OurHome/modules/afterservice/getBarterProductList.jsp","finder":"net.xinshi.isone.modules.privilege.privilegefinder.impl.NormalActionFinder","actionId":"orderList_returnProduct"}
+        </str>
+        <str name="merchant_store">saasAccount_100002</str>
+        <str name="type_store">ActionFinder</str>
+        <long name="_version_">1425400134978502656</long>
+    </doc>
+    <doc>
+        <str name="id">ActionFinder_/OurHome/modules/afterservice/getDeliveryPointList.jsp</str>
+        <str name="content_store">
+            {"id":"ActionFinder_/OurHome/modules/afterservice/getDeliveryPointList.jsp","finder":"net.xinshi.isone.modules.privilege.privilegefinder.impl.NormalActionFinder","actionId":"orderView_barter"}
+        </str>
+        <str name="merchant_store">saasAccount_100002</str>
+        <str name="type_store">ActionFinder</str>
+        <long name="_version_">1425400134981648384</long>
+    </doc>
+    <doc>
+        <str name="id">ActionFinder_/OurHome/modules/appLogin/action/saveAppLogin.jsp</str>
+        <str name="content_store">
+            {"id":"ActionFinder_/OurHome/modules/appLogin/action/saveAppLogin.jsp","moduleId":"module_appLogin","finder":"net.xinshi.isone.modules.privilege.privilegefinder.impl.NormalActionFinder","actionId":"appLoginAdd"}
+        </str>
+        <str name="merchant_store">saasAccount_100002</str>
+        <str name="type_store">ActionFinder</str>
+        <long name="_version_">1425400134983745536</long>
+    </doc>
+</result>
+<lst name="facet_counts">
+    <lst name="facet_queries"/>
+    <lst name="facet_fields">
+        <lst name="type">
+            <int name="c_region">2987</int>
+            <int name="ColumnFinder">916</int>
+            <int name="ActionFinder">530</int>
+            <int name="LogAction_system">37</int>
+            <int name="advplace_page">31</int>
+            <int name="auto_110">31</int>
+            <int name="advplace_110">30</int>
+            <int name="c">25</int>
+            <int name="ColumnFinder_/OurHome/modules/product/M">21</int>
+            <int name="advplace_101">21</int>
+            <int name="auto_101">21</int>
+            <int name="ActionFinder_/OurHome/modules/product/M">19</int>
+            <int name="LogAction_products">16</int>
+            <int name="ObjLogType">15</int>
+            <int name="advplace_100">13</int>
+            <int name="c_m">13</int>
+            <int name="c_o_1000">12</int>
+            <int name="ColumnFinder_/OurHome/modules/groupon/M">11</int>
+            <int name="ColumnFinder_/OurHome/modules/panicbuy/M">11</int>
+            <int name="ColumnFinder_/OurHome/modules/trialon/M">11</int>
+            <int name="auto_100">11</int>
+            <int name="c_o_m_1000">11</int>
+            <int name="LogType_system">10</int>
+            <int name="attrtype_text">9</int>
+            <int name="c_card">8</int>
+            <int name="c_m_card">8</int>
+            <int name="">7</int>
+            <int name="advplace">7</int>
+            <int name="advplace_103">7</int>
+            <int name="advplace_105">7</int>
+            <int name="attrtype">7</int>
+            <int name="LogAction_businessRule">6</int>
+            <int name="OrderRelatedList">6</int>
+            <int name="OrderStateAutoDeal">6</int>
+            <int name="OrderStateDispatchRule_common">6</int>
+            <int name="OrderStateModifyRule_common">6</int>
+            <int name="OrderStateModifyRule_platform">6</int>
+            <int name="OrderStateModifyRule_user">6</int>
+            <int name="advplace_104">6</int>
+            <int name="attrtype_pic">6</int>
+            <int name="c_plan">6</int>
+            <int name="advplace_102">5</int>
+            <int name="auto_105">5</int>
+            <int name="ActionFinder_/OurHome/modules/product/m">4</int>
+            <int name="ColumnFinder_/OurHome/modules/product/m">4</int>
+            <int name="attrgrp">4</int>
+            <int name="attrtype_singlecolumn">4</int>
+            <int name="c_brand">4</int>
+            <int name="c_email">4</int>
+            <int name="c_o_1004">4</int>
+            <int name="c_o_m_1004">4</int>
+            <int name="LogType_products">3</int>
+            <int name="attrTemplate_000">3</int>
+            <int name="attrgrp_000">3</int>
+            <int name="auto_000">3</int>
+            <int name="c_o">3</int>
+            <int name="c_o_m">3</int>
+            <int name="ActionFinder_/OurHome/modules/afterservice/List_returnProductOrder">2</int>
+            <int name="ActionFinder_/OurHome/modules/groupon/M">2</int>
+            <int name="ActionFinder_/OurHome/modules/panicbuy/M">2</int>
+            <int name="ActionFinder_/OurHome/modules/trialon/M">2</int>
+            <int name="ColumnFinder_/OurHome/modules/account/AccountLogsList">2</int>
+            <int name="ColumnFinder_/OurHome/modules/afterservice/List_returnProductOrder">2</int>
+            <int name="ColumnFinder_/OurHome/modules/order/export/M">2</int>
+            <int name="CommendTypes">2</int>
+            <int name="LogType_businessRule">2</int>
+            <int name="OrderListDispatchRule_barter">2</int>
+            <int name="OrderListDispatchRule_barter_addOrder">2</int>
+            <int name="OrderListDispatchRule_barter_updateOrder">2</int>
+            <int name="OrderListDispatchRule_common">2</int>
+            <int name="OrderListDispatchRule_common_addOrder">2</int>
+            <int name="OrderListDispatchRule_common_updateOrder">2</int>
+            <int name="OrderListDispatchRule_delVouchers">2</int>
+            <int name="OrderListDispatchRule_delVouchers_addOrder">2</int>
+            <int name="OrderListDispatchRule_delVouchers_updateOrder">2</int>
+            <int name="OrderListDispatchRule_group">2</int>
+            <int name="OrderListDispatchRule_group_addOrder">2</int>
+            <int name="OrderListDispatchRule_group_updateOrder">2</int>
+            <int name="OrderListDispatchRule_panic">2</int>
+            <int name="OrderListDispatchRule_panic_addOrder">2</int>
+            <int name="OrderListDispatchRule_panic_updateOrder">2</int>
+            <int name="OrderListDispatchRule_reserve_addOrder">2</int>
+            <int name="OrderListDispatchRule_reserve_updateOrder">2</int>
+            <int name="OrderListDispatchRule_tryuse">2</int>
+            <int name="OrderListDispatchRule_tryuse_addOrder">2</int>
+            <int name="OrderListDispatchRule_tryuse_updateOrder">2</int>
+            <int name="OrderRelatedList_barter">2</int>
+            <int name="OrderRelatedList_common">2</int>
+            <int name="OrderRelatedList_delVouchers">2</int>
+            <int name="OrderRelatedList_group">2</int>
+            <int name="OrderRelatedList_panic">2</int>
+            <int name="OrderRelatedList_reserve">2</int>
+            <int name="OrderRelatedList_tryuse">2</int>
+            <int name="OrderStateAutoDeal_barter">2</int>
+            <int name="OrderStateAutoDeal_common">2</int>
+            <int name="OrderStateAutoDeal_delVouchers">2</int>
+            <int name="OrderStateAutoDeal_group">2</int>
+            <int name="OrderStateAutoDeal_panic">2</int>
+            <int name="OrderStateAutoDeal_reserve">2</int>
+            <int name="OrderStateAutoDeal_tryuse">2</int>
+            <int name="OrderStateDispatchRule_common_barter">2</int>
+            <int name="OrderStateDispatchRule_common_common">2</int>
+            <int name="OrderStateDispatchRule_common_delVouchers">2</int>
+            <int name="OrderStateDispatchRule_common_group">2</int>
+            <int name="OrderStateDispatchRule_common_panic">2</int>
+            <int name="OrderStateDispatchRule_common_reserve">2</int>
+            <int name="OrderStateDispatchRule_common_tryuse">2</int>
+            <int name="OrderStateModifyRule_common_barter">2</int>
+            <int name="OrderStateModifyRule_common_common">2</int>
+            <int name="OrderStateModifyRule_common_delVouchers">2</int>
+            <int name="OrderStateModifyRule_common_group">2</int>
+            <int name="OrderStateModifyRule_common_panic">2</int>
+            <int name="OrderStateModifyRule_common_reserve">2</int>
+            <int name="OrderStateModifyRule_common_tryuse">2</int>
+            <int name="OrderStateModifyRule_platform_barter">2</int>
+            <int name="OrderStateModifyRule_platform_common">2</int>
+            <int name="OrderStateModifyRule_platform_delVouchers">2</int>
+            <int name="OrderStateModifyRule_platform_group">2</int>
+            <int name="OrderStateModifyRule_platform_panic">2</int>
+            <int name="OrderStateModifyRule_platform_reserve">2</int>
+            <int name="OrderStateModifyRule_platform_tryuse">2</int>
+            <int name="OrderStateModifyRule_user_barter">2</int>
+            <int name="OrderStateModifyRule_user_common">2</int>
+            <int name="OrderStateModifyRule_user_delVouchers">2</int>
+            <int name="OrderStateModifyRule_user_group">2</int>
+            <int name="OrderStateModifyRule_user_panic">2</int>
+            <int name="OrderStateModifyRule_user_reserve">2</int>
+            <int name="OrderStateModifyRule_user_tryuse">2</int>
+            <int name="attrTemplate">2</int>
+            <int name="attrtype_decimal">2</int>
+            <int name="attrtype_piclist">2</int>
+            <int name="auto_auto_100_001_layout">2</int>
+            <int name="auto_auto_101_001_layout">2</int>
+            <int name="auto_ctmpl_110_042">2</int>
+            <int name="auto_ctmpl_110_052_layout">2</int>
+            <int name="c_SimpleInfo">2</int>
+            <int name="c_o_1003">2</int>
+            <int name="c_o_m_1003">2</int>
+            <int name="AccountTypes">1</int>
+            <int name="ActionFinder_/OurHome/modules/afterservice/List_Barter2ReturnProductOrder">1</int>
+            <int name="ActionFinder_/OurHome/modules/afterservice/List_barterProductOrder">1</int>
+            <int name="ActionFinder_/OurHome/modules/afterservice/neworder/Load">1</int>
+            <int name="ActionFinder_/OurHome/modules/merchant/MerchantDetail">1</int>
+            <int name="ActionFinder_/OurHome/modules/merchant/m">1</int>
+            <int name="ActionFinder_/OurHome/modules/present/M">1</int>
+            <int name="ActionFinder_/OurHome/modules/product/M_PriceVersions">1</int>
+            <int name="ActionFinder_/OurHome/modules/product/M_ProductDetail">1</int>
+            <int name="ActionFinder_/OurHome/modules/product/ProductDetail">1</int>
+            <int name="ColumnFinder_/OurHome/modules/account/GetAccountTypeStore">1</int>
+            <int name="ColumnFinder_/OurHome/modules/afterservice/List_Barter2ReturnProductOrder">1</int>
+            <int name="ColumnFinder_/OurHome/modules/afterservice/List_barterProductOrder">1</int>
+            <int name="ColumnFinder_/OurHome/modules/afterservice/neworder/Load">1</int>
+            <int name="ColumnFinder_/OurHome/modules/merchant/M">1</int>
+            <int name="ColumnFinder_/OurHome/modules/merchant/MerchantDetail">1</int>
+            <int name="ColumnFinder_/OurHome/modules/merchant/m">1</int>
+            <int name="ColumnFinder_/OurHome/modules/movie/M">1</int>
+            <int name="ColumnFinder_/OurHome/modules/order/M">1</int>
+            <int name="ColumnFinder_/OurHome/modules/order/thirdOrder/M">1</int>
+            <int name="ColumnFinder_/OurHome/modules/present/M">1</int>
+            <int name="ColumnFinder_/OurHome/modules/product/M_PriceVersions">1</int>
+            <int name="ColumnFinder_/OurHome/modules/product/M_ProductDetail">1</int>
+            <int name="ColumnFinder_/OurHome/modules/product/ProductDetail">1</int>
+            <int name="ColumnFinder_/OurHome/modules/product/StandardProductDetail">1</int>
+            <int name="MoneyTypes">1</int>
+            <int name="O2SVconf_attrgrp_002_attr">1</int>
+            <int name="O2SVconf_attrgrp_10002_attr">1</int>
+            <int name="O2SVconf_attrgrp_1151_attr">1</int>
+            <int name="ObjectTitle">1</int>
+            <int name="OtherEntities">1</int>
+            <int name="PriceEntityTypes">1</int>
+            <int name="PriceTypesConfig">1</int>
+            <int name="ProductValidPublishTimes">1</int>
+            <int name="RoleOwnerTypes">1</int>
+            <int name="VirtualCardTypes">1</int>
+            <int name="attrTemplate_10000">1</int>
+            <int name="attrTemplate_page">1</int>
+            <int name="attrgrp_page">1</int>
+            <int name="attrtype_date">1</int>
+            <int name="auto_auto_000_001_layout">1</int>
+            <int name="auto_auto_101_014_layout">1</int>
+            <int name="auto_auto_101_025">1</int>
+            <int name="auto_auto_105_001_layout">1</int>
+            <int name="auto_auto_110_026_layout">1</int>
+            <int name="auto_auto_110_029_layout">1</int>
+            <int name="auto_ctmpl_110_034_layout">1</int>
+            <int name="auto_ctmpl_110_051">1</int>
+            <int name="c_10000">1</int>
+            <int name="c_argument">1</int>
+            <int name="c_m_sysargument">1</int>
+            <int name="c_plan_m">1</int>
+        </lst>
+    </lst>
+    <lst name="facet_dates"/>
+    <lst name="facet_ranges"/>
+</lst>
+</response>
+
+
+        <?xml version="1.0" encoding="UTF-8"?>
+<response>
+<result name="response" numFound="5" start="0">
+    <doc>
+        <date name="create-time">2013-06-15T07:28:18.294Z</date>
+        <str name="type_store">view</str>
+        <str name="id">nobody:::view_d04874561810865</str>
+        <str name="content_store">
+            {"uid":"86514dd5-00eb-4629-8671-ad846a8491c6","pageName":"站内搜索:搜索结果页面:热门搜索-苹果Itv","referrer":"http://localhost:8080/collectorFront/doc/product.html","front_type":"view","session":"d04874561810865","merchant":"nobody","status":"站内搜索成功页面","create-time":"2013-06-15T07:28:18.294Z","keyword":"苹果Itv","visit_type":"Repeat","pageURL":"http://localhost:8080/collectorFront/doc/search.html","version":"0.0.1"}
+        </str>
+        <long name="metric_product-totalPrice">0</long>
+        <long name="metric_logisticFee">0</long>
+        <str name="merchant_store">nobody</str>
+        <long name="metric_purchase-price">0</long>
+        <long name="metric_notCollectPrice">0</long>
+        <long name="metric_grossProfit">0</long>
+        <long name="metric_collectPrice">0</long>
+        <long name="_version_">1437892716992135168</long>
+    </doc>
+    <doc>
+        <date name="create-time">2013-06-15T07:28:18.53Z</date>
+        <str name="type_store">view</str>
+        <str name="id">nobody:::view_d01617871627677</str>
+        <str name="content_store">
+            {"uid":"86514dd5-00eb-4629-8671-ad846a8491c6","pageName":"站内搜索:搜索结果页面:热门搜索-苹果Itv","referrer":"http://localhost:8080/collectorFront/doc/product.html","front_type":"view","session":"d01617871627677","merchant":"nobody","status":"站内搜索成功页面","create-time":"2013-06-15T07:28:18.530Z","keyword":"苹果Itv","visit_type":"Repeat","pageURL":"http://localhost:8080/collectorFront/doc/search.html","version":"0.0.1"}
+        </str>
+        <long name="metric_product-totalPrice">0</long>
+        <long name="metric_logisticFee">0</long>
+        <str name="merchant_store">nobody</str>
+        <long name="metric_purchase-price">0</long>
+        <long name="metric_notCollectPrice">0</long>
+        <long name="metric_grossProfit">0</long>
+        <long name="metric_collectPrice">0</long>
+        <long name="_version_">1437892716997378048</long>
+    </doc>
+    <doc>
+        <date name="create-time">2013-06-15T07:28:18.722Z</date>
+        <str name="type_store">view</str>
+        <str name="id">nobody:::view_d09390973669942</str>
+        <str name="content_store">
+            {"uid":"86514dd5-00eb-4629-8671-ad846a8491c6","pageName":"站内搜索:搜索结果页面:热门搜索-苹果Itv","referrer":"http://localhost:8080/collectorFront/doc/product.html","front_type":"view","session":"d09390973669942","merchant":"nobody","status":"站内搜索成功页面","create-time":"2013-06-15T07:28:18.722Z","keyword":"苹果Itv","visit_type":"Repeat","pageURL":"http://localhost:8080/collectorFront/doc/search.html","version":"0.0.1"}
+        </str>
+        <long name="metric_product-totalPrice">0</long>
+        <long name="metric_logisticFee">0</long>
+        <str name="merchant_store">nobody</str>
+        <long name="metric_purchase-price">0</long>
+        <long name="metric_notCollectPrice">0</long>
+        <long name="metric_grossProfit">0</long>
+        <long name="metric_collectPrice">0</long>
+        <long name="_version_">1437892717003669504</long>
+    </doc>
+    <doc>
+        <date name="create-time">2013-06-15T07:28:18.894Z</date>
+        <str name="type_store">view</str>
+        <str name="id">nobody:::view_d07785456168930</str>
+        <str name="content_store">
+            {"uid":"86514dd5-00eb-4629-8671-ad846a8491c6","pageName":"站内搜索:搜索结果页面:热门搜索-苹果Itv","referrer":"http://localhost:8080/collectorFront/doc/product.html","front_type":"view","session":"d07785456168930","merchant":"nobody","status":"站内搜索成功页面","create-time":"2013-06-15T07:28:18.894Z","keyword":"苹果Itv","visit_type":"Repeat","pageURL":"http://localhost:8080/collectorFront/doc/search.html","version":"0.0.1"}
+        </str>
+        <long name="metric_product-totalPrice">0</long>
+        <long name="metric_logisticFee">0</long>
+        <str name="merchant_store">nobody</str>
+        <long name="metric_purchase-price">0</long>
+        <long name="metric_notCollectPrice">0</long>
+        <long name="metric_grossProfit">0</long>
+        <long name="metric_collectPrice">0</long>
+        <long name="_version_">1437892717008912384</long>
+    </doc>
+    <doc>
+        <date name="create-time">2013-06-15T07:28:19.059Z</date>
+        <str name="type_store">view</str>
+        <str name="id">nobody:::view_d07919292950537</str>
+        <str name="content_store">
+            {"uid":"86514dd5-00eb-4629-8671-ad846a8491c6","pageName":"站内搜索:搜索结果页面:热门搜索-苹果Itv","referrer":"http://localhost:8080/collectorFront/doc/product.html","front_type":"view","session":"d07919292950537","merchant":"nobody","status":"站内搜索成功页面","create-time":"2013-06-15T07:28:19.059Z","keyword":"苹果Itv","visit_type":"Repeat","pageURL":"http://localhost:8080/collectorFront/doc/search.html","version":"0.0.1"}
+        </str>
+        <long name="metric_product-totalPrice">0</long>
+        <long name="metric_logisticFee">0</long>
+        <str name="merchant_store">nobody</str>
+        <long name="metric_purchase-price">0</long>
+        <long name="metric_notCollectPrice">0</long>
+        <long name="metric_grossProfit">0</long>
+        <long name="metric_collectPrice">0</long>
+        <long name="_version_">1437892717015203840</long>
+    </doc>
+</result>
+<lst name="facet_counts">
+    <lst name="facet_queries"/>
+    <lst name="facet_fields">
+        <lst name="insighttype">
+            <int name="view">5</int>
+        </lst>
+    </lst>
+    <lst name="facet_dates"/>
+    <lst name="facet_ranges"/>
+</lst>
+<lst name="stats">
+    <lst name="stats_fields">
+        <lst name="session">
+            <long name="count">5</long>
+            <lst name="facets">
+                <lst name="create-time">
+                    <lst name="2013-06-08">
+                        <long name="count">5</long>
+                        <lst name="facets"/>
+                    </lst>
+                    <lst name="2013-06-09">
+                        <long name="count">5</long>
+                        <lst name="facets"/>
+                    </lst>
+                    <lst name="2013-06-10">
+                        <long name="count">5</long>
+                        <lst name="facets"/>
+                    </lst>
+                    <lst name="2013-06-11">
+                        <long name="count">5</long>
+                        <lst name="facets"/>
+                    </lst>
+                    <lst name="2013-06-12">
+                        <long name="count">5</long>
+                        <lst name="facets"/>
+                    </lst>
+                    <lst name="2013-06-13">
+                        <long name="count">5</long>
+                        <lst name="facets"/>
+                    </lst>
+                    <lst name="2013-06-14">
+                        <long name="count">5</long>
+                        <lst name="facets"/>
+                    </lst>
+                    <lst name="2013-06-15">
+                        <long name="count">5</long>
+                        <lst name="facets"/>
+                    </lst>
+                </lst>
+            </lst>
+        </lst>
+    </lst>
+</lst>
+<arr name="fields">
+    <str>时间</str>
+    <str>PV</str>
+</arr>
+<int name="total">0</int>
+</response>
+
+
+        <?xml version="1.0" encoding="UTF-8"?>
+<response>
+<result name="response" numFound="286" start="0">
+    <doc>
+        <date name="create-time">2013-03-05T17:51:35Z</date>
+        <str name="type_store">user</str>
+        <str name="id">2600000</str>
+        <str name="content_store">
+            {"isEnable":"已激活","loginId":"test11","create-time":"2013-03-05T17:51:35Z","userSource":{"sourceType":"线上","source":"第一电商"},"education":"","userCardBindStatus":"是","id":"2600000","postalCode":"","nickName":"test11","lastModifiedUserId":"test11","description":"","income":"","gender":"保密","birthday-time":"1970-01-01T08:00:00Z","industry":"","mobilPhone":"","createUserId":"test11","logo":"/upload/user_none_100.gif","recommendedUserId":"","marriage":"未婚","checkedemailStatus":"是","officePhone":"","userPurchaseType":"新会员","metric_orderCount":"0","checkedphoneStatus":"否","lastModified-time":"2013-04-03T11:43:31Z","address":"","email":"","memberGroups":{"c_102_group":{"createTime":"2013-03-05T17:51:35Z","groupName":"普通会员","allGroupName":"普通会员;"}},"isAdmin":"","realName":""}
+        </str>
+        <long name="metric_product-totalPrice">0</long>
+        <date name="birthday-time">1970-01-01T08:00:00Z</date>
+        <long name="metric_logisticFee">0</long>
+        <str name="merchant_store">saasAccount_80013</str>
+        <long name="metric_purchase-price">0</long>
+        <long name="metric_notCollectPrice">0</long>
+        <long name="metric_orderCount">0</long>
+        <date name="lastModified-time">2013-04-03T11:43:31Z</date>
+        <long name="metric_grossProfit">0</long>
+        <long name="metric_collectPrice">0</long>
+        <long name="_version_">1436538397823860736</long>
+    </doc>
+    <doc>
+        <date name="create-time">2013-04-08T09:39:45Z</date>
+        <str name="type_store">user</str>
+        <str name="id">3150000</str>
+        <str name="content_store">
+            {"region":"中国","isEnable":"已激活","loginId":"test333","create-time":"2013-04-08T09:39:45Z","education":"","userCardBindStatus":"否","id":"3150000","postalCode":"","nickName":"","lastModifiedUserId":"test333","description":"","income":"","gender":"保密","birthday-time":"1970-01-01T08:00:00Z","industry":"","mobilPhone":"","createUserId":"test333","logo":"/upload/user_none_100.gif","recommendedUserId":"","marriage":"未婚","checkedemailStatus":"否","officePhone":"","userPurchaseType":"新会员","metric_orderCount":"1","checkedphoneStatus":"否","lastModified-time":"2013-04-11T11:25:51Z","address":"","email":"test333@qq.com","memberGroups":{"c_102_group":{"createTime":"2013-04-08T09:39:45Z","groupName":"普通会员","allGroupName":"普通会员;"}},"isAdmin":"是","realName":"test222"}
+        </str>
+        <long name="metric_product-totalPrice">0</long>
+        <date name="birthday-time">1970-01-01T08:00:00Z</date>
+        <long name="metric_logisticFee">0</long>
+        <str name="merchant_store">saasAccount_80010</str>
+        <long name="metric_purchase-price">0</long>
+        <long name="metric_notCollectPrice">0</long>
+        <long name="metric_orderCount">1</long>
+        <date name="lastModified-time">2013-04-11T11:25:51Z</date>
+        <long name="metric_grossProfit">0</long>
+        <long name="metric_collectPrice">0</long>
+        <long name="_version_">1436538403783966720</long>
+    </doc>
+    <doc>
+        <date name="create-time">2013-04-01T17:24:26Z</date>
+        <str name="type_store">user</str>
+        <str name="id">3060000</str>
+        <str name="content_store">
+            {"isEnable":"已激活","loginId":"wang11","create-time":"2013-04-01T17:24:26Z","education":"","userCardBindStatus":"否","id":"3060000","postalCode":"","nickName":"","lastModifiedUserId":"wang11","description":"","income":"","gender":"保密","birthday-time":"1970-01-01T08:00:00Z","industry":"","mobilPhone":"18613143430","createUserId":"wang11","logo":"/upload/user_none_100.gif","recommendedUserId":"","marriage":"未婚","checkedemailStatus":"否","officePhone":"","userPurchaseType":"新会员","metric_orderCount":"1","lastModified-time":"2013-04-03T16:13:58Z","checkedphoneStatus":"是","address":"","email":"","memberGroups":{"c_102_group":{"createTime":"2013-04-01T17:24:26Z","groupName":"普通会员","allGroupName":"普通会员;"}},"isAdmin":"是","realName":""}
+        </str>
+        <long name="metric_product-totalPrice">0</long>
+        <date name="birthday-time">1970-01-01T08:00:00Z</date>
+        <long name="metric_logisticFee">0</long>
+        <str name="merchant_store">saasAccount_80010</str>
+        <long name="metric_purchase-price">0</long>
+        <long name="metric_notCollectPrice">0</long>
+        <long name="metric_orderCount">1</long>
+        <date name="lastModified-time">2013-04-03T16:13:58Z</date>
+        <long name="metric_grossProfit">0</long>
+        <long name="metric_collectPrice">0</long>
+        <long name="_version_">1436538403783966721</long>
+    </doc>
+    <doc>
+        <date name="create-time">2013-04-01T17:30:07Z</date>
+        <str name="type_store">user</str>
+        <str name="id">3070000</str>
+        <str name="content_store">
+            {"isEnable":"已激活","loginId":"wang234","create-time":"2013-04-01T17:30:07Z","education":"","userCardBindStatus":"否","id":"3070000","postalCode":"","nickName":"","lastModifiedUserId":"u_sys","description":"","income":"","gender":"保密","birthday-time":"1970-01-01T08:00:00Z","industry":"","mobilPhone":"","createUserId":"wang234","logo":"/upload/user_none_100.gif","recommendedUserId":"","marriage":"未婚","checkedemailStatus":"否","officePhone":"","userPurchaseType":"新会员","metric_orderCount":"0","lastModified-time":"2013-04-01T17:30:07Z","checkedphoneStatus":"否","address":"","email":"","memberGroups":{"c_102_group":{"createTime":"2013-04-01T17:30:07Z","groupName":"普通会员","allGroupName":"普通会员;"}},"isAdmin":"是","realName":""}
+        </str>
+        <long name="metric_product-totalPrice">0</long>
+        <date name="birthday-time">1970-01-01T08:00:00Z</date>
+        <long name="metric_logisticFee">0</long>
+        <str name="merchant_store">saasAccount_80010</str>
+        <long name="metric_purchase-price">0</long>
+        <long name="metric_notCollectPrice">0</long>
+        <long name="metric_orderCount">0</long>
+        <date name="lastModified-time">2013-04-01T17:30:07Z</date>
+        <long name="metric_grossProfit">0</long>
+        <long name="metric_collectPrice">0</long>
+        <long name="_version_">1436538403785015296</long>
+    </doc>
+    <doc>
+        <date name="create-time">2013-04-02T10:07:36Z</date>
+        <str name="type_store">user</str>
+        <str name="id">3070002</str>
+        <str name="content_store">
+            {"isEnable":"已激活","loginId":"aaabbb","create-time":"2013-04-02T10:07:36Z","education":"","userCardBindStatus":"否","id":"3070002","postalCode":"","nickName":"","lastModifiedUserId":"aaabbb","description":"","income":"","gender":"保密","birthday-time":"1970-01-01T08:00:00Z","industry":"","mobilPhone":"","createUserId":"aaabbb","logo":"/upload/user_none_100.gif","recommendedUserId":"","marriage":"未婚","checkedemailStatus":"否","officePhone":"","userPurchaseType":"新会员","metric_orderCount":"0","lastModified-time":"2013-04-09T15:53:09Z","checkedphoneStatus":"否","address":"","email":"","memberGroups":{"c_102_group":{"createTime":"2013-04-02T10:07:36Z","groupName":"普通会员","allGroupName":"普通会员;"}},"isAdmin":"是","realName":""}
+        </str>
+        <long name="metric_product-totalPrice">0</long>
+        <date name="birthday-time">1970-01-01T08:00:00Z</date>
+        <long name="metric_logisticFee">0</long>
+        <str name="merchant_store">saasAccount_80010</str>
+        <long name="metric_purchase-price">0</long>
+        <long name="metric_notCollectPrice">0</long>
+        <long name="metric_orderCount">0</long>
+        <date name="lastModified-time">2013-04-09T15:53:09Z</date>
+        <long name="metric_grossProfit">0</long>
+        <long name="metric_collectPrice">0</long>
+        <long name="_version_">1436538403786063872</long>
+    </doc>
+    <doc>
+        <date name="create-time">2013-04-03T15:47:33Z</date>
+        <str name="type_store">user</str>
+        <str name="id">3120000</str>
+        <str name="content_store">
+            {"isEnable":"已激活","loginId":"wang321","create-time":"2013-04-03T15:47:33Z","education":"","userCardBindStatus":"否","id":"3120000","postalCode":"","nickName":"","lastModifiedUserId":"u_sys","description":"","income":"","gender":"保密","birthday-time":"1970-01-01T08:00:00Z","industry":"","mobilPhone":"","createUserId":"wang321","logo":"/upload/user_none_100.gif","recommendedUserId":"","marriage":"未婚","checkedemailStatus":"否","officePhone":"","userPurchaseType":"新会员","metric_orderCount":"0","lastModified-time":"2013-04-03T15:47:33Z","checkedphoneStatus":"否","address":"","email":"","memberGroups":{"c_102_group":{"createTime":"2013-04-03T15:47:33Z","groupName":"普通会员","allGroupName":"普通会员;"}},"isAdmin":"是","realName":""}
+        </str>
+        <long name="metric_product-totalPrice">0</long>
+        <date name="birthday-time">1970-01-01T08:00:00Z</date>
+        <long name="metric_logisticFee">0</long>
+        <str name="merchant_store">saasAccount_80010</str>
+        <long name="metric_purchase-price">0</long>
+        <long name="metric_notCollectPrice">0</long>
+        <long name="metric_orderCount">0</long>
+        <date name="lastModified-time">2013-04-03T15:47:33Z</date>
+        <long name="metric_grossProfit">0</long>
+        <long name="metric_collectPrice">0</long>
+        <long name="_version_">1436538403786063873</long>
+    </doc>
+    <doc>
+        <date name="create-time">2013-04-03T16:49:01Z</date>
+        <str name="type_store">user</str>
+        <str name="id">3120001</str>
+        <str name="content_store">
+            {"isEnable":"已激活","loginId":"qwe123","create-time":"2013-04-03T16:49:01Z","education":"","userCardBindStatus":"否","id":"3120001","postalCode":"","nickName":"","lastModifiedUserId":"qwe123","description":"","income":"","gender":"保密","birthday-time":"1970-01-01T08:00:00Z","industry":"","mobilPhone":"","createUserId":"qwe123","logo":"/upload/user_none_100.gif","recommendedUserId":"","marriage":"未婚","checkedemailStatus":"否","officePhone":"","userPurchaseType":"新会员","metric_orderCount":"0","lastModified-time":"2013-04-03T16:49:51Z","checkedphoneStatus":"否","address":"","email":"","memberGroups":{"c_102_group":{"createTime":"2013-04-03T16:49:01Z","groupName":"普通会员","allGroupName":"普通会员;"}},"isAdmin":"是","realName":""}
+        </str>
+        <long name="metric_product-totalPrice">0</long>
+        <date name="birthday-time">1970-01-01T08:00:00Z</date>
+        <long name="metric_logisticFee">0</long>
+        <str name="merchant_store">saasAccount_80010</str>
+        <long name="metric_purchase-price">0</long>
+        <long name="metric_notCollectPrice">0</long>
+        <long name="metric_orderCount">0</long>
+        <date name="lastModified-time">2013-04-03T16:49:51Z</date>
+        <long name="metric_grossProfit">0</long>
+        <long name="metric_collectPrice">0</long>
+        <long name="_version_">1436538403787112448</long>
+    </doc>
+    <doc>
+        <date name="create-time">2013-04-03T16:51:00Z</date>
+        <str name="type_store">user</str>
+        <str name="id">3120002</str>
+        <str name="content_store">
+            {"isEnable":"已激活","loginId":"Zzz123","create-time":"2013-04-03T16:51:00Z","education":"","userCardBindStatus":"否","id":"3120002","postalCode":"","nickName":"","lastModifiedUserId":"u_sys","description":"","income":"","gender":"保密","birthday-time":"1970-01-01T08:00:00Z","industry":"","mobilPhone":"","createUserId":"Zzz123","logo":"/upload/user_none_100.gif","recommendedUserId":"","marriage":"未婚","checkedemailStatus":"否","officePhone":"","userPurchaseType":"新会员","metric_orderCount":"0","lastModified-time":"2013-04-03T16:51:00Z","checkedphoneStatus":"否","address":"","email":"","memberGroups":{"c_102_group":{"createTime":"2013-04-03T16:51:00Z","groupName":"普通会员","allGroupName":"普通会员;"}},"isAdmin":"是","realName":""}
+        </str>
+        <long name="metric_product-totalPrice">0</long>
+        <date name="birthday-time">1970-01-01T08:00:00Z</date>
+        <long name="metric_logisticFee">0</long>
+        <str name="merchant_store">saasAccount_80010</str>
+        <long name="metric_purchase-price">0</long>
+        <long name="metric_notCollectPrice">0</long>
+        <long name="metric_orderCount">0</long>
+        <date name="lastModified-time">2013-04-03T16:51:00Z</date>
+        <long name="metric_grossProfit">0</long>
+        <long name="metric_collectPrice">0</long>
+        <long name="_version_">1436538403788161024</long>
+    </doc>
+    <doc>
+        <date name="create-time">2013-04-03T16:52:46Z</date>
+        <str name="type_store">user</str>
+        <str name="id">3120003</str>
+        <str name="content_store">
+            {"isEnable":"已激活","loginId":"Aa1234","create-time":"2013-04-03T16:52:46Z","education":"","userCardBindStatus":"否","id":"3120003","postalCode":"","nickName":"","lastModifiedUserId":"Aa1234","description":"","income":"","gender":"保密","birthday-time":"1970-01-01T08:00:00Z","industry":"","mobilPhone":"","createUserId":"Aa1234","logo":"/upload/user_none_100.gif","recommendedUserId":"","marriage":"未婚","checkedemailStatus":"否","officePhone":"","userPurchaseType":"新会员","metric_orderCount":"0","lastModified-time":"2013-04-08T10:34:36Z","checkedphoneStatus":"否","address":"","email":"","memberGroups":{"c_102_group":{"createTime":"2013-04-03T16:52:46Z","groupName":"普通会员","allGroupName":"普通会员;"}},"isAdmin":"是","realName":""}
+        </str>
+        <long name="metric_product-totalPrice">0</long>
+        <date name="birthday-time">1970-01-01T08:00:00Z</date>
+        <long name="metric_logisticFee">0</long>
+        <str name="merchant_store">saasAccount_80010</str>
+        <long name="metric_purchase-price">0</long>
+        <long name="metric_notCollectPrice">0</long>
+        <long name="metric_orderCount">0</long>
+        <date name="lastModified-time">2013-04-08T10:34:36Z</date>
+        <long name="metric_grossProfit">0</long>
+        <long name="metric_collectPrice">0</long>
+        <long name="_version_">1436538403789209600</long>
+    </doc>
+    <doc>
+        <date name="create-time">2013-03-22T17:19:02Z</date>
+        <str name="type_store">user</str>
+        <str name="id">2930000</str>
+        <str name="content_store">
+            {"isEnable":"已激活","loginId":"fangbiao23","create-time":"2013-03-22T17:19:02Z","education":"","userCardBindStatus":"否","id":"2930000","postalCode":"","nickName":"","lastModifiedUserId":"fangbiao23","description":"","income":"","gender":"保密","birthday-time":"1970-01-01T08:00:00Z","industry":"","mobilPhone":"13631438816","createUserId":"fangbiao23","logo":"/upload/user_none_100.gif","recommendedUserId":"","marriage":"未婚","checkedemailStatus":"否","officePhone":"","userPurchaseType":"新会员","metric_orderCount":"0","lastModified-time":"2013-03-22T17:19:02Z","checkedphoneStatus":"否","address":"","email":"fangbiao_21@qq.com","memberGroups":{"c_102_group":{"createTime":"2013-03-22T17:19:02Z","groupName":"普通会员","allGroupName":"普通会员;"}},"isAdmin":"是","realName":""}
+        </str>
+        <long name="metric_product-totalPrice">0</long>
+        <date name="birthday-time">1970-01-01T08:00:00Z</date>
+        <long name="metric_logisticFee">0</long>
+        <str name="merchant_store">saasAccount_80010</str>
+        <long name="metric_purchase-price">0</long>
+        <long name="metric_notCollectPrice">0</long>
+        <long name="metric_orderCount">0</long>
+        <date name="lastModified-time">2013-03-22T17:19:02Z</date>
+        <long name="metric_grossProfit">0</long>
+        <long name="metric_collectPrice">0</long>
+        <long name="_version_">1436538403789209601</long>
+    </doc>
+</result>
+<lst name="facet_counts">
+    <lst name="facet_queries"/>
+    <lst name="facet_fields">
+        <lst name="insighttype">
+            <int name="user">286</int>
+        </lst>
+    </lst>
+    <lst name="facet_dates"/>
+    <lst name="facet_ranges"/>
+</lst>
+<lst name="stats">
+    <lst name="stats_fields">
+        <lst name="id">
+            <long name="count">286</long>
+            <lst name="facets"/>
+        </lst>
+    </lst>
+</lst>
+<int name="total">0</int>
+</response>
+
+
+        <?xml version="1.0" encoding="UTF-8"?>
+<response>
+<lst name="facet_counts">
+    <lst name="facet_queries"/>
+    <lst name="facet_fields">
+        <lst name="insighttype">
+            <int name="view">422</int>
+        </lst>
+    </lst>
+    <lst name="facet_dates"/>
+    <lst name="facet_ranges"/>
+</lst>
+<lst name="stats">
+    <lst name="stats_fields">
+        <lst name="session">
+            <long name="count">422</long>
+            <lst name="facets">
+                <lst name="pageName">
+                    <lst name="站内搜索:搜索结果页面:热门搜索-苹果Itv">
+                        <long name="count">186</long>
+                        <lst name="facets"/>
+                    </lst>
+                    <lst name="商品:苹果（APPLE）iPhone4 3G手机（8G）3.5 英寸IPS 电容屏，500万像素摄像头，8G机身内存!">
+                        <long name="count">116</long>
+                        <lst name="facets"/>
+                    </lst>
+                    <lst name="购物车流程:加入购物车">
+                        <long name="count">18</long>
+                        <lst name="facets"/>
+                    </lst>
+                    <lst name="新闻中心:百货底价表白 第2件0元">
+                        <long name="count">14</long>
+                        <lst name="facets"/>
+                    </lst>
+                    <lst name="购物车流程:提交订单">
+                        <long name="count">9</long>
+                        <lst name="facets"/>
+                    </lst>
+                    <lst name="站内搜索:搜索结果页面:热门搜索-华为mate">
+                        <long name="count">4</long>
+                        <lst name="facets"/>
+                    </lst>
+                    <lst name="站内搜索:搜索结果页面:热门搜索-苹果Iphone">
+                        <long name="count">3</long>
+                        <lst name="facets"/>
+                    </lst>
+                    <lst name="主页">
+                        <long name="count">2</long>
+                        <lst name="facets"/>
+                    </lst>
+                    <lst name="商品列表:床品件套">
+                        <long name="count">1</long>
+                        <lst name="facets"/>
+                    </lst>
+                </lst>
+            </lst>
+        </lst>
+        <lst name="uid">
+            <int name="dcount">4</int>
+            <lst name="facets">
+                <lst name="pageName">
+                    <lst name="站内搜索:搜索结果页面:热门搜索-苹果Itv">
+                        <int name="dcount">4</int>
+                        <lst name="facets"/>
+                    </lst>
+                    <lst name="购物车流程:加入购物车">
+                        <int name="dcount">2</int>
+                        <lst name="facets"/>
+                    </lst>
+                    <lst name="商品:苹果（APPLE）iPhone4 3G手机（8G）3.5 英寸IPS 电容屏，500万像素摄像头，8G机身内存!">
+                        <int name="dcount">2</int>
+                        <lst name="facets"/>
+                    </lst>
+                    <lst name="新闻中心:百货底价表白 第2件0元">
+                        <int name="dcount">1</int>
+                        <lst name="facets"/>
+                    </lst>
+                    <lst name="购物车流程:提交订单">
+                        <int name="dcount">1</int>
+                        <lst name="facets"/>
+                    </lst>
+                    <lst name="主页">
+                        <int name="dcount">1</int>
+                        <lst name="facets"/>
+                    </lst>
+                    <lst name="站内搜索:搜索结果页面:热门搜索-华为mate">
+                        <int name="dcount">0</int>
+                        <lst name="facets"/>
+                    </lst>
+                    <lst name="商品列表:床品件套">
+                        <int name="dcount">0</int>
+                        <lst name="facets"/>
+                    </lst>
+                    <lst name="站内搜索:搜索结果页面:热门搜索-苹果Iphone">
+                        <int name="dcount">0</int>
+                        <lst name="facets"/>
+                    </lst>
+                </lst>
+            </lst>
+        </lst>
+    </lst>
+</lst>
+<arr name="fields">
+    <str>页面</str>
+    <str>PV</str>
+    <str>UV</str>
+</arr>
+<int name="total">10</int>
+<lst name="insight">
+    <arr name="fields">
+        <str>页面</str>
+        <str>PV</str>
+        <str>UV</str>
+    </arr>
+    <arr name="rows">
+        <lst>
+            <str name="页面"/>
+            <str name="PV">69</str>
+            <str name="UV">4</str>
+        </lst>
+        <lst>
+            <str name="页面">站内搜索:搜索结果页面:热门搜索-苹果Itv</str>
+            <str name="PV">186</str>
+            <str name="UV">5</str>
+        </lst>
+        <lst>
+            <str name="页面">购物车流程:加入购物车</str>
+            <str name="PV">18</str>
+            <str name="UV">3</str>
+        </lst>
+        <lst>
+            <str name="页面">新闻中心:百货底价表白 第2件0元</str>
+            <str name="PV">14</str>
+            <str name="UV">2</str>
+        </lst>
+        <lst>
+            <str name="页面">站内搜索:搜索结果页面:热门搜索-华为mate</str>
+            <str name="PV">4</str>
+            <str name="UV">1</str>
+        </lst>
+        <lst>
+            <str name="页面">购物车流程:提交订单</str>
+            <str name="PV">9</str>
+            <str name="UV">1</str>
+        </lst>
+        <lst>
+            <str name="页面">商品:苹果（APPLE）iPhone4 3G手机（8G）3.5 英寸IPS 电容屏，500万像素摄像头，8G机身内存!</str>
+            <str name="PV">116</str>
+            <str name="UV">3</str>
+        </lst>
+        <lst>
+            <str name="页面">主页</str>
+            <str name="PV">2</str>
+            <str name="UV">2</str>
+        </lst>
+        <lst>
+            <str name="页面">商品列表:床品件套</str>
+            <str name="PV">1</str>
+            <str name="UV">1</str>
+        </lst>
+        <lst>
+            <str name="页面">站内搜索:搜索结果页面:热门搜索-苹果Iphone</str>
+            <str name="PV">3</str>
+            <str name="UV">1</str>
+        </lst>
+    </arr>
+</lst>
+</response>
+
+
+        <?xml version="1.0" encoding="UTF-8"?>
+<search-job>
+<event-count>532</event-count>
+<latest_time></latest_time>
+<search>search insighttype:order |field metric_user-id,id | stat count(id) as 订单数 group by metric_user-id as 会员 | sort
+    integer(订单数) desc
+</search>
+<dispatch-state>DONE</dispatch-state>
+<done>1</done>
+<id>82e6df9e-3613-44d1-b0ea-841fd1c55764</id>
+<result-count>532</result-count>
+<earliest_time>1970-01-01T00:00:00.000Z</earliest_time>
+</search-job>
+
+

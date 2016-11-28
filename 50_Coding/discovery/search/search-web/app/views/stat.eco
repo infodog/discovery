@@ -1,0 +1,28 @@
+<header>
+	<a class="show">Show</a>
+</header>
+
+<div class="content">
+		<table id="fields" class="table table-striped table-bordered table-condensed">
+			<tr>
+				<th name="lastModified">Last Modified</th>
+				<th name="numDocs" >Num Docs</th>
+				<th name="maxDoc" >Max Doc</th>
+				<th name="version" >version</th>
+				<th name="segmentCount" >Segment Count</th>
+				<th name="optimized" >Optimized</th>
+				<th name="current">current</th>
+			</tr>
+	  
+			<tr>
+				<td name="lastModified"></th>
+				<td name="numDocs" ><%=@numDocs %></th>
+				<td name="macDoc" ><%=@maxDoc %></th>
+				<td name="version" ><%=@version %></th>
+				<td name="segmentCount" ><%=@segmentCount %></th>
+				<td name="optimized" ></th>
+				<td name="current"><%=@current %></th>
+			</tr>	
+	
+		</table>
+</div>

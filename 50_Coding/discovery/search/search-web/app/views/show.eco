@@ -1,0 +1,38 @@
+<header>
+	<a class="edit">Edit</a><a class="dict">Dictionary</a><a class="synonyms">Synonyms</a>
+	<a class="spellings">Spellings</a>
+    <a class="score">Score</a><a class="stat">Statistics</a>
+	<a class="build">Build</a><a class="query">Query</a><a class="optimize">Optimize</a>
+</header>
+
+<div class="content">
+	<!--<p>Name: <%=@name %></p>	-->
+		<% if @fields().all().length: %>
+		<table id="fields" class="table table-striped table-bordered table-condensed">
+			<tr>
+				<th name="fieldName">字段</th>
+				<th name="type" >类型</th>
+				<th name="search" >是否搜索</th>
+				<th name="facet" >是否facet</th>
+				<th name="result" >result</th>
+				<th name="default" >默认值</th>
+				<th name="source">source</th>
+			</tr>
+	  <% for field in @fields().all(): %>
+			<tr>
+				<td name="fieldName"><%= field.fieldName %></th>
+				<td name="type" ><%= field.type %></th>
+				<td name="search" ><%= field.search %></th>
+				<td name="facet" ><%= field.facet %></th>
+				<td name="result" ><%= field.result %></th>
+				<td name="default" ><%= field.default %></th>
+				<td name="source"><%= field.source %></th>
+			</tr>	
+	  <% end %>
+	
+		</table>
+	
+	<% else: %>
+	  No fields
+	<% end %>
+</div>

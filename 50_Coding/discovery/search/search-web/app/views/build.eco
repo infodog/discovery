@@ -1,0 +1,7 @@
+<header>
+	<a class="show">Show</a><a class="buildIndex">Build</a>
+</header>
+
+<div class="content">
+	<textarea id="jsoninput" rows="30"></textarea>
+</div>

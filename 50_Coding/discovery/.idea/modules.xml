@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/insights/collector-backend/collector-backend.iml" filepath="$PROJECT_DIR$/insights/collector-backend/collector-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/insights/collector-frontend/collector-frontend.iml" filepath="$PROJECT_DIR$/insights/collector-frontend/collector-frontend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/discovery.iml" filepath="$PROJECT_DIR$/discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/search/discovery-search.iml" filepath="$PROJECT_DIR$/search/discovery-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/search/search-client/discovery-search-client.iml" filepath="$PROJECT_DIR$/search/search-client/discovery-search-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/search/search-core/discovery-search-core.iml" filepath="$PROJECT_DIR$/search/search-core/discovery-search-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/search/search-demo/discovery-search-demo.iml" filepath="$PROJECT_DIR$/search/search-demo/discovery-search-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/search/search-input/discovery-search-input.iml" filepath="$PROJECT_DIR$/search/search-input/discovery-search-input.iml" />
+      <module fileurl="file://$PROJECT_DIR$/search/search-lucene/discovery-search-lucene.iml" filepath="$PROJECT_DIR$/search/search-lucene/discovery-search-lucene.iml" />
+      <module fileurl="file://$PROJECT_DIR$/search/search-manager/discovery-search-manager.iml" filepath="$PROJECT_DIR$/search/search-manager/discovery-search-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/search/search-web/discovery-search-web.iml" filepath="$PROJECT_DIR$/search/search-web/discovery-search-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/insights/insights.iml" filepath="$PROJECT_DIR$/insights/insights.iml" />
+      <module fileurl="file://$PROJECT_DIR$/search/search-lucene/analysis/lucene-analysis.iml" filepath="$PROJECT_DIR$/search/search-lucene/analysis/lucene-analysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/search/search-lucene/suggest/lucene-suggest.iml" filepath="$PROJECT_DIR$/search/search-lucene/suggest/lucene-suggest.iml" />
+    </modules>
+  </component>
+</project>
+

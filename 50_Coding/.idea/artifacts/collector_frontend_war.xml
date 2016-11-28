@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="collector-frontend:war">
+    <output-path>$PROJECT_DIR$/discovery/insights/collector-frontend/target</output-path>
+    <root id="archive" name="collector-frontend-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="collector-frontend:war exploded" />
+    </root>
+  </artifact>
+</component>

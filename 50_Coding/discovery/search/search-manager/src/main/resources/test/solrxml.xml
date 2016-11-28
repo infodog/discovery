@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+    <result name="response" numFound="5" start="0">
+        <doc>
+            <long name="metric_total-grossProfit">0</long>
+            <long name="metric_order-id">2011090622125199001</long>
+            <long name="metric_purchase-amount">10</long>
+            <str name="type_store">order</str>
+            <str name="id">m100:::order_2011090622125199001||p_50306</str>
+            <str name="content_store">
+                {"region":"????/??/???/??","product-skuAttrs":"","metric_order-id":"2011090622125199001","metric_total-grossProfit":0,"create-month":"2011-09","create-time":"2011-09-06
+                22:12:51","promotion":"????","tokenized_product-name":"?????FH6203","metric_purchase-amount":10,"order-source":"????","order-state":"???","delivery-mode":"????","id":"m100:::order_2011090622125199001||p_50306","metric_product-totalPrice":39000,"metric_logisticsFee":"0","logisticsName":"","pay-mode":"????,","merchantId":"m_100","create-day":"2011-09-06","product-vid":"53111","product-id":"p_50306","order-type":"????","merchant":"????","metric_user-id":"50301","metric_purchase-price":3900,"metric_notCollectPrice":"156","confirm-time":"2011-09-06
+                22:14:05","category":"?????/????/???/???","metric_total-price":"39000","tokenized_user-name":"fangbiao","product-attrs":"???:??
+                ?? ?? ??? ??? ??? ?? ?? ??^????:????^??:?????????????^??:???FLYCO?FH6203 ??????? 850W
+                ^??:105mm*75mm*175mm^??:220v^??:850w^??(kG):0.41^????:????????^???kG?:0.32","order-paystate":"???","brand":"??","finish-time":"","productName":"?????FH6203","package-states":"???,??????","metric_collectPrice":"18523"}
+            </str>
+            <long name="metric_product-totalPrice">39000</long>
+            <long name="metric_logisticsFee">0</long>
+            <long name="metric_user-id">50301</long>
+            <str name="merchant_store">m100</str>
+            <long name="metric_purchase-price">3900</long>
+            <long name="metric_notCollectPrice">156</long>
+            <long name="metric_total-price">39000</long>
+            <long name="metric_collectPrice">18523</long>
+            <long name="_version_">1429927500233834496</long>
+        </doc>
+        <doc>
+            <long name="metric_total-grossProfit">0</long>
+            <long name="metric_order-id">2011102017454969763</long>
+            <long name="metric_purchase-amount">1</long>
+            <str name="type_store">order</str>
+            <str name="id">m100:::order_2011102017454969763||p_52809</str>
+            <str name="content_store">
+                {"region":"????/??/???/?????/???","product-skuAttrs":"","metric_order-id":"2011102017454969763","metric_total-grossProfit":0,"create-month":"2011-10","create-time":"2011-10-20
+                17:45:49","promotion":"????","tokenized_product-name":"??
+                ???","metric_purchase-amount":1,"order-source":"????","order-state":"???","delivery-mode":"??","id":"m100:::order_2011102017454969763||p_52809","metric_product-totalPrice":0,"metric_logisticsFee":"0","logisticsName":"","pay-mode":"????,","merchantId":"m_100","create-day":"2011-10-20","product-vid":"56932","product-id":"p_52809","order-type":"????","merchant":"????","metric_user-id":"53305","metric_purchase-price":0,"metric_notCollectPrice":"156","confirm-time":"","category":"?????/????/????/???","metric_total-price":"42400","tokenized_user-name":"x0707","product-attrs":"???kG?:0.27","order-paystate":"???","brand":"??","finish-time":"","productName":"??
+                ???","package-states":"???","metric_collectPrice":"18523"}
+            </str>
+            <long name="metric_product-totalPrice">0</long>
+            <long name="metric_logisticsFee">0</long>
+            <long name="metric_user-id">53305</long>
+            <str name="merchant_store">m100</str>
+            <long name="metric_purchase-price">0</long>
+            <long name="metric_notCollectPrice">156</long>
+            <long name="metric_total-price">42400</long>
+            <long name="metric_collectPrice">18523</long>
+            <long name="_version_">1429927500270534656</long>
+        </doc>
+        <doc>
+            <long name="metric_total-grossProfit">0</long>
+            <long name="metric_order-id">2011102017454969763</long>
+            <long name="metric_purchase-amount">1</long>
+            <str name="type_store">order</str>
+            <str name="id">m100:::order_2011102017454969763||p_51032</str>
+            <str name="content_store">
+                {"region":"????/??/???/?????/???","product-skuAttrs":"","metric_order-id":"2011102017454969763","metric_total-grossProfit":0,"create-month":"2011-10","create-time":"2011-10-20
+                17:45:49","promotion":"????","tokenized_product-name":"???????AP-Y5004ED&lt;font color=red&gt;????358??????
+                &lt;\/font&gt;
+                ","metric_purchase-amount":1,"order-source":"????","order-state":"???","delivery-mode":"??","id":"m100:::order_2011102017454969763||p_51032","metric_product-totalPrice":41900,"metric_logisticsFee":"0","logisticsName":"","pay-mode":"????,","merchantId":"m_100","create-day":"2011-10-20","product-vid":"61361","product-id":"p_51032","order-type":"????","merchant":"????","metric_user-id":"53305","metric_purchase-price":41900,"metric_notCollectPrice":"156","confirm-time":"","category":"?????/????/????/????","metric_total-price":"42400","tokenized_user-name":"x0707","product-attrs":"????:2-5^????:????^??:900W^??:???????AP-Y5004ED^????:?????^???kG?:5.6^??:????^??:5L","order-paystate":"???","brand":"???","finish-time":"","productName":"???????AP-Y5004ED&lt;font
+                color=red&gt;????358?????? &lt;\/font&gt; ","package-states":"???","metric_collectPrice":"18523"}
+            </str>
+            <long name="metric_product-totalPrice">41900</long>
+            <long name="metric_logisticsFee">0</long>
+            <long name="metric_user-id">53305</long>
+            <str name="merchant_store">m100</str>
+            <long name="metric_purchase-price">41900</long>
+            <long name="metric_notCollectPrice">156</long>
+            <long name="metric_total-price">42400</long>
+            <long name="metric_collectPrice">18523</long>
+            <long name="_version_">1429927500286263296</long>
+        </doc>
+        <doc>
+            <long name="metric_total-grossProfit">0</long>
+            <long name="metric_order-id">2011102017454969763</long>
+            <long name="metric_purchase-amount">1</long>
+            <str name="type_store">order</str>
+            <str name="id">m100:::order_2011102017454969763||p_52802</str>
+            <str name="content_store">
+                {"region":"????/??/???/?????/???","product-skuAttrs":"","metric_order-id":"2011102017454969763","metric_total-grossProfit":0,"create-month":"2011-10","create-time":"2011-10-20
+                17:45:49","promotion":"????","tokenized_product-name":"???????????50ml","metric_purchase-amount":1,"order-source":"????","order-state":"???","delivery-mode":"??","id":"m100:::order_2011102017454969763||p_52802","metric_product-totalPrice":0,"metric_logisticsFee":"0","logisticsName":"","pay-mode":"????,","merchantId":"m_100","create-day":"2011-10-20","product-vid":"56876","product-id":"p_52802","order-type":"????","merchant":"????","metric_user-id":"53305","metric_purchase-price":0,"metric_notCollectPrice":"156","confirm-time":"","category":"?????/????/????/???","metric_total-price":"42400","tokenized_user-name":"x0707","product-attrs":"???kG?:0.58","order-paystate":"???","brand":"??","finish-time":"","productName":"???????????50ml","package-states":"???","metric_collectPrice":"18523"}
+            </str>
+            <long name="metric_product-totalPrice">0</long>
+            <long name="metric_logisticsFee">0</long>
+            <long name="metric_user-id">53305</long>
+            <str name="merchant_store">m100</str>
+            <long name="metric_purchase-price">0</long>
+            <long name="metric_notCollectPrice">156</long>
+            <long name="metric_total-price">42400</long>
+            <long name="metric_collectPrice">18523</long>
+            <long name="_version_">1429927500303040512</long>
+        </doc>
+        <doc>
+            <long name="metric_total-grossProfit">0</long>
+            <long name="metric_order-id">2011102017454969763</long>
+            <long name="metric_purchase-amount">1</long>
+            <str name="type_store">order</str>
+            <str name="id">m100:::order_2011102017454969763||p_52178</str>
+            <str name="content_store">
+                {"region":"????/??/???/?????/???","product-skuAttrs":"","metric_order-id":"2011102017454969763","metric_total-grossProfit":0,"create-month":"2011-10","create-time":"2011-10-20
+                17:45:49","promotion":"????","tokenized_product-name":"?????????","metric_purchase-amount":1,"order-source":"????","order-state":"???","delivery-mode":"??","id":"m100:::order_2011102017454969763||p_52178","metric_product-totalPrice":500,"metric_logisticsFee":"0","logisticsName":"","pay-mode":"????,","merchantId":"m_100","create-day":"2011-10-20","product-vid":"58222","product-id":"p_52178","order-type":"????","merchant":"????","metric_user-id":"53305","metric_purchase-price":500,"metric_notCollectPrice":"156","confirm-time":"","category":"?????/????/????/???","metric_total-price":"42400","tokenized_user-name":"x0707","product-attrs":"????:????^??:???????????^??:624?364?644?????^????:???^???kG?:4","order-paystate":"???","brand":"???","finish-time":"","productName":"?????????","package-states":"???","metric_collectPrice":"18523"}
+            </str>
+            <long name="metric_product-totalPrice">500</long>
+            <long name="metric_logisticsFee">0</long>
+            <long name="metric_user-id">53305</long>
+            <str name="merchant_store">m100</str>
+            <long name="metric_purchase-price">500</long>
+            <long name="metric_notCollectPrice">156</long>
+            <long name="metric_total-price">42400</long>
+            <long name="metric_collectPrice">18523</long>
+            <long name="_version_">1429927500317720576</long>
+        </doc>
+    </result>
+    <lst name="facet_counts">
+        <lst name="facet_queries"/>
+        <lst name="facet_fields">
+            <lst name="insighttype">
+                <int name="order">5</int>
+            </lst>
+        </lst>
+        <lst name="facet_dates"/>
+        <lst name="facet_ranges"/>
+    </lst>
+    <lst name="stats">
+        <lst name="stats_fields">
+            <lst name="metric_purchase-price">
+                <double name="sum">46300.0</double>
+                <lst name="facets">
+                    <lst name="productName">
+                        <lst name="???????AP-Y5004ED&lt;font color=red>????358?????? &lt;/font> ">
+                            <double name="sum">41900.0</double>
+                            <lst name="facets"/>
+                        </lst>
+                        <lst name="?????FH6203">
+                            <double name="sum">3900.0</double>
+                            <lst name="facets"/>
+                        </lst>
+                        <lst name="?????????">
+                            <double name="sum">500.0</double>
+                            <lst name="facets"/>
+                        </lst>
+                        <lst name="???????????50ml">
+                            <double name="sum">0.0</double>
+                            <lst name="facets"/>
+                        </lst>
+                        <lst name="??  ???">
+                            <double name="sum">0.0</double>
+                            <lst name="facets"/>
+                        </lst>
+                    </lst>
+                </lst>
+            </lst>
+        </lst>
+    </lst>
+    <arr name="fields">
+        <str>????</str>
+        <str>???</str>
+    </arr>
+    <int name="total">5</int>
+</response>
+
+        <?xml version="1.0" encoding="UTF-8"?>
+<response>
+<result name="response" numFound="2" start="0">
+    <doc>
+        <long name="metric_order-id">2011102017454969763</long>
+        <date name="create-time">2013-03-23T17:45:49Z</date>
+        <str name="type_store">order</str>
+        <str name="id">2011102017454969763</str>
+        <str name="content_store">
+            {"region":"????/??/???/?????/???","metric_order-id":"2011102017454969763","merchant":"????","order-type":"????","create-month":"2011-10","metric_user-id":"53305","create-time":"2013-03-23T17:45:49Z","promotion":"????","metric_notCollectPrice":"156","order-source":"????","order-state":"???","confirm-time":"2013-03-23T17:45:49Z","delivery-mode":"??","id":"2011102017454969763","metric_total-price":"42400","tokenized_user-name":"x0707","order-paystate":"???","metric_logisticsFee":"0","logisticsName":"","pay-mode":"????,","merchantId":"m_100","create-day":"2011-10-20","metric_collectPrice":"18523"}
+        </str>
+        <long name="metric_logisticsFee">0</long>
+        <long name="metric_user-id">53305</long>
+        <str name="merchant_store">m100</str>
+        <long name="metric_notCollectPrice">156</long>
+        <date name="confirm-time">2013-03-23T17:45:49Z</date>
+        <long name="metric_total-price">42400</long>
+        <long name="metric_collectPrice">18523</long>
+        <long name="_version_">1430533060190797824</long>
+    </doc>
+    <doc>
+        <long name="metric_order-id">2011091418061240680</long>
+        <date name="create-time">2013-03-24T18:06:12Z</date>
+        <str name="type_store">order</str>
+        <str name="id">2011091418061240680</str>
+        <str name="content_store">
+            {"region":"????/??/???/???/???","metric_order-id":"2011091418061240680","merchant":"????","order-type":"????","create-month":"2011-09","metric_user-id":"51687","create-time":"2013-03-24T18:06:12Z","promotion":"????","metric_notCollectPrice":"156","order-source":"????","order-state":"???","confirm-time":"2013-03-24T18:06:12Z","delivery-mode":"?????","id":"2011091418061240680","metric_total-price":"0","tokenized_user-name":"lijunli","order-paystate":"???","metric_logisticsFee":"0","logisticsName":"","pay-mode":"????,","merchantId":"m_100","create-day":"2011-09-14","metric_collectPrice":"18523"}
+        </str>
+        <long name="metric_logisticsFee">0</long>
+        <long name="metric_user-id">51687</long>
+        <str name="merchant_store">m100</str>
+        <long name="metric_notCollectPrice">156</long>
+        <date name="confirm-time">2013-03-24T18:06:12Z</date>
+        <long name="metric_total-price">0</long>
+        <long name="metric_collectPrice">18523</long>
+        <long name="_version_">1430533060217012224</long>
+    </doc>
+</result>
+<lst name="facet_counts">
+    <lst name="facet_queries"/>
+    <lst name="facet_fields">
+        <lst name="insighttype">
+            <int name="order">2</int>
+        </lst>
+    </lst>
+    <lst name="facet_dates"/>
+    <lst name="facet_ranges"/>
+</lst>
+<lst name="stats">
+    <lst name="stats_fields">
+        <lst name="id">
+            <long name="count">2</long>
+            <lst name="facets"/>
+        </lst>
+        <lst name="create-time">
+            <lst name="counts">
+                <int name="2013-03-21T00:00:00Z">0</int>
+                <int name="2013-03-22T00:00:00Z">0</int>
+                <int name="2013-03-23T00:00:00Z">1</int>
+                <int name="2013-03-24T00:00:00Z">1</int>
+                <int name="2013-03-25T00:00:00Z">0</int>
+                <int name="2013-03-26T00:00:00Z">0</int>
+            </lst>
+            <str name="gap">+1DAY</str>
+            <date name="start">2013-03-21T00:00:00Z</date>
+            <date name="end">2013-03-27T00:00:00Z</date>
+        </lst>
+    </lst>
+</lst>
+<arr name="fields">
+    <str>DAY</str>
+    <str>PRICE</str>
+</arr>
+<int name="total">0</int>
+</response>
+
+
+<lst name="stats">
+<lst name="stats_fields">
+    <lst name="metric_purchase-price">
+        <double name="sum">46300.0</double>
+        <lst name="facets">
+            <lst name="productName">
+                <lst name="???????AP-Y5004ED&lt;font color=red>????358?????? &lt;/font> ">
+                    <double name="sum">41900.0</double>
+                    <lst name="facets"/>
+                </lst>
+                <lst name="?????FH6203">
+                    <double name="sum">3900.0</double>
+                    <lst name="facets"/>
+                </lst>
+                <lst name="?????????">
+                    <double name="sum">500.0</double>
+                    <lst name="facets"/>
+                </lst>
+                <lst name="???????????50ml">
+                    <double name="sum">0.0</double>
+                    <lst name="facets"/>
+                </lst>
+                <lst name="??  ???">
+                    <double name="sum">0.0</double>
+                    <lst name="facets"/>
+                </lst>
+            </lst>
+        </lst>
+    </lst>
+</lst>
+</lst>
+
+
+        <?xml version="1.0" encoding="UTF-8"?>
+<response>
+<result name="response" numFound="2" start="0"></result>
+<lst name="facet_counts">
+    <lst name="facet_queries"/>
+    <lst name="facet_fields">
+        <lst name="insighttype">
+            <int name="order">2</int>
+        </lst>
+    </lst>
+    <lst name="facet_dates"/>
+    <lst name="facet_ranges"/>
+</lst>
+<lst name="stats">
+    <lst name="stats_fields">
+        <lst name="id">
+            <lst name="facets">
+                <lst name="create-time">
+                    <lst name="2013-03-21T00:00:00Z">
+                        <long name="count">0</long>
+                        <lst name="facets"/>
+                    </lst>
+                    <lst name="2013-03-22T00:00:00Z">
+                        <long name="count">0</long>
+                        <lst name="facets"/>
+                    </lst>
+                    <lst name="2013-03-23T00:00:00Z">
+                        <long name="count">1</long>
+                        <lst name="facets"/>
+                    </lst>
+                    <lst name="2013-03-24T00:00:00Z">
+                        <long name="count">1</long>
+                        <lst name="facets"/>
+                    </lst>
+                    <lst name="2013-03-25T00:00:00Z">
+                        <long name="count">0</long>
+                        <lst name="facets"/>
+                    </lst>
+                    <lst name="2013-03-26T00:00:00Z">
+                        <long name="count">0</long>
+                        <lst name="facets"/>
+                    </lst>
+                </lst>
+            </lst>
+        </lst>
+    </lst>
+</lst>
+<arr name="fields">
+    <str>DAY</str>
+    <str>NUM</str>
+</arr>
+<int name="total">0</int>
+</response>
+
+
+        <?xml version="1.0" encoding="UTF-8"?>
+<response>
+<result name="response" numFound="187" start="0">
+    <doc>
+        <str name="merchant_store">is1</str>
+        <long name="metric_purchase-price">0</long>
+        <long name="metric_notCollectPrice">0</long>
+        <str name="type_store">view</str>
+        <str name="id">is1:::view_d88532111879903</str>
+        <str name="content_store">
+            {"pageName":"站内搜索:搜索结果页面:热门搜索-华为mate","session":"d88532111879903","merchant":"is1","channel":"站内搜索","version":"0.0.1"}
+        </str>
+        <long name="metric_product-totalPrice">0</long>
+        <long name="metric_grossProfit">0</long>
+        <long name="metric_logisticFee">0</long>
+        <long name="metric_collectPrice">0</long>
+        <long name="_version_">1436538406282723329</long>
+    </doc>
+    <doc>
+        <str name="merchant_store">is1</str>
+        <long name="metric_purchase-price">0</long>
+        <long name="metric_notCollectPrice">0</long>
+        <str name="type_store">view</str>
+        <str name="id">is1:::view_d84151833483483</str>
+        <str name="content_store">
+            {"pageName":"站内搜索:搜索结果页面:热门搜索-华为mate","session":"d84151833483483","merchant":"is1","channel":"站内搜索","version":"0.0.1"}
+        </str>
+        <long name="metric_product-totalPrice">0</long>
+        <long name="metric_grossProfit">0</long>
+        <long name="metric_logisticFee">0</long>
+        <long name="metric_collectPrice">0</long>
+        <long name="_version_">1436538406282723330</long>
+    </doc>
+    <doc>
+        <str name="merchant_store">is1</str>
+        <long name="metric_purchase-price">0</long>
+        <long name="metric_notCollectPrice">0</long>
+        <str name="type_store">view</str>
+        <str name="id">is1:::view_d98014319296926</str>
+        <str name="content_store">
+            {"pageName":"站内搜索:搜索结果页面:热门搜索-华为mate","session":"d98014319296926","merchant":"is1","channel":"站内搜索","pageURL":"http://localhost:8080/collectorFront/test.html","version":"0.0.1"}
+        </str>
+        <long name="metric_product-totalPrice">0</long>
+        <long name="metric_grossProfit">0</long>
+        <long name="metric_logisticFee">0</long>
+        <long name="metric_collectPrice">0</long>
+        <long name="_version_">1436538406282723331</long>
+    </doc>
+    <doc>
+        <str name="merchant_store">is1</str>
+        <long name="metric_purchase-price">0</long>
+        <long name="metric_notCollectPrice">0</long>
+        <str name="type_store">view</str>
+        <str name="id">is1:::view_d96442142126616</str>
+        <str name="content_store">
+            {"pageName":"站内搜索:搜索结果页面:热门搜索-华为mate","session":"d96442142126616","merchant":"is1","channel":"站内搜索","pageURL":"http://localhost:8080/collectorFront/doc/test.html","version":"0.0.1"}
+        </str>
+        <long name="metric_product-totalPrice">0</long>
+        <long name="metric_grossProfit">0</long>
+        <long name="metric_logisticFee">0</long>
+        <long name="metric_collectPrice">0</long>
+        <long name="_version_">1436538406283771904</long>
+    </doc>
+    <doc>
+        <str name="merchant_store">m_50000</str>
+        <long name="metric_purchase-price">0</long>
+        <long name="metric_notCollectPrice">0</long>
+        <str name="type_store">view</str>
+        <str name="id">m_50000:::view_d92983374721370</str>
+        <str name="content_store">
+            {"pageName":"主页","session":"d92983374721370","merchant":"m_50000","channel":"主页","pageURL":"http://localhost:8080/collectorFront/doc/index.html","version":"0.0.1"}
+        </str>
+        <long name="metric_product-totalPrice">0</long>
+        <long name="metric_grossProfit">0</long>
+        <long name="metric_logisticFee">0</long>
+        <long name="metric_collectPrice">0</long>
+        <long name="_version_">1436538406283771905</long>
+    </doc>
+    <doc>
+        <str name="merchant_store">m_50000</str>
+        <long name="metric_purchase-price">0</long>
+        <long name="metric_notCollectPrice">0</long>
+        <str name="type_store">view</str>
+        <str name="id">m_50000:::view_d99085544366389</str>
+        <str name="content_store">
+            {"pageName":"站内搜索:搜索结果页面:热门搜索-苹果Iphone","session":"d99085544366389","merchant":"m_50000","channel":"站内搜索","pageURL":"http://localhost:8080/collectorFront/doc/search.html","version":"0.0.1"}
+        </str>
+        <long name="metric_product-totalPrice">0</long>
+        <long name="metric_grossProfit">0</long>
+        <long name="metric_logisticFee">0</long>
+        <long name="metric_collectPrice">0</long>
+        <long name="_version_">1436538406283771906</long>
+    </doc>
+    <doc>
+        <str name="merchant_store">m_50000</str>
+        <long name="metric_purchase-price">0</long>
+        <long name="metric_notCollectPrice">0</long>
+        <str name="type_store">view</str>
+        <str name="id">m_50000:::view_d91833421953488</str>
+        <str name="content_store">
+            {"result":"站内搜索成功页面","pageName":"站内搜索:搜索结果页面:热门搜索-苹果Iphone","session":"d91833421953488","merchant":"m_50000","keyword":"苹果Iphone","channel":"站内搜索","pageURL":"http://localhost:8080/collectorFront/doc/search.html","version":"0.0.1"}
+        </str>
+        <long name="metric_product-totalPrice">0</long>
+        <long name="metric_grossProfit">0</long>
+        <long name="metric_logisticFee">0</long>
+        <long name="metric_collectPrice">0</long>
+        <long name="_version_">1436538406283771907</long>
+    </doc>
+    <doc>
+        <str name="merchant_store">m_50000</str>
+        <long name="metric_purchase-price">0</long>
+        <long name="metric_notCollectPrice">0</long>
+        <str name="type_store">view</str>
+        <str name="id">m_50000:::view_d9952011013869</str>
+        <str name="content_store">
+            {"pageName":"商品列表:床品件套","session":"d9952011013869","merchant":"m_50000","channel":"商品列表","pageURL":"http://localhost:8080/collectorFront/doc/list.html","version":"0.0.1"}
+        </str>
+        <long name="metric_product-totalPrice">0</long>
+        <long name="metric_grossProfit">0</long>
+        <long name="metric_logisticFee">0</long>
+        <long name="metric_collectPrice">0</long>
+        <long name="_version_">1436538406284820480</long>
+    </doc>
+    <doc>
+        <str name="merchant_store">nobody</str>
+        <long name="metric_purchase-price">0</long>
+        <long name="metric_notCollectPrice">0</long>
+        <str name="type_store">view</str>
+        <str name="id">nobody:::view_d92096777108963</str>
+        <str name="content_store">{"pageName":"商品:苹果（APPLE）iPhone4 3G手机（8G）3.5 英寸IPS
+            电容屏，500万像素摄像头，8G机身内存!","session":"d92096777108963","merchant":"nobody","products":"9010000520","channel":"商品","pageURL":"http://localhost:8080/collectorFront/doc/product.html","version":"0.0.1"}
+        </str>
+        <long name="metric_product-totalPrice">0</long>
+        <long name="metric_grossProfit">0</long>
+        <long name="metric_logisticFee">0</long>
+        <long name="metric_collectPrice">0</long>
+        <long name="_version_">1436538406284820481</long>
+    </doc>
+    <doc>
+        <str name="merchant_store">m_50000</str>
+        <long name="metric_purchase-price">0</long>
+        <long name="metric_notCollectPrice">0</long>
+        <str name="type_store">view</str>
+        <str name="id">m_50000:::view_d98113113781437</str>
+        <str name="content_store">{"pageName":"新闻中心:百货底价表白
+            第2件0元","session":"d98113113781437","merchant":"m_50000","channel":"新闻中心","pageURL":"http://localhost:8080/collectorFront/doc/info.html","version":"0.0.1"}
+        </str>
+        <long name="metric_product-totalPrice">0</long>
+        <long name="metric_grossProfit">0</long>
+        <long name="metric_logisticFee">0</long>
+        <long name="metric_collectPrice">0</long>
+        <long name="_version_">1436538406285869056</long>
+    </doc>
+</result>
+<lst name="facet_counts">
+    <lst name="facet_queries"/>
+    <lst name="facet_fields">
+        <lst name="insighttype">
+            <int name="view">187</int>
+        </lst>
+    </lst>
+    <lst name="facet_dates"/>
+    <lst name="facet_ranges"/>
+</lst>
+<lst name="stats">
+    <lst name="stats_fields">
+        <lst name="id">
+            <long name="count">187</long>
+            <lst name="facets">
+                <lst name="visit_type">
+                    <lst name="New">
+                        <long name="count">136</long>
+                        <lst name="facets"/>
+                    </lst>
+                    <lst name="Repeat">
+                        <long name="count">36</long>
+                        <lst name="facets"/>
+                    </lst>
+                    <lst name="empty:null">
+                        <long name="count">15</long>
+                        <lst name="facets"/>
+                    </lst>
+                </lst>
+            </lst>
+        </lst>
+        <lst name="uid">
+            <long name="dcount">2</long>
+            <lst name="facets">
+                <lst name="visit_type">
+                    <lst name="empty:null">
+                        <long name="dcount">0</long>
+                        <lst name="facets"/>
+                    </lst>
+                    <lst name="New">
+                        <long name="dcount">0</long>
+                        <lst name="facets"/>
+                    </lst>
+                    <lst name="Repeat">
+                        <long name="dcount">2</long>
+                        <lst name="facets"/>
+                    </lst>
+                </lst>
+            </lst>
+        </lst>
+    </lst>
+</lst>
+<arr name="fields">
+    <str>用户类型</str>
+    <str>PV</str>
+    <str>UV</str>
+</arr>
+<int name="total">3</int>
+</response>

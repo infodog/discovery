@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<!-- -->
+	<bean id="searchServices" class="net.xinshi.discovery.search.client.services.impl.JavaSearchClient" destroy-method="close">
+		<property name="url">
+            <!--<value>10.10.10.15:8888/discovery-search-web</value>-->
+
+            <value>127.0.0.1:8080/discovery-search-web</value>
+            <!--<value>10.10.10.203:8180/discovery-search-web</value>-->
+            <!--<value>10.10.10.87:8080/discovery-search-web</value>-->
+		</property>
+        <property name="projectName">
+            <value>test</value>
+        </property>
+        <property name="debug">
+            <value>true</value>
+        </property>
+        <property name="independentIndexes">
+            <map>
+                <entry key="PRODUCT" value="true"/>
+            </map>
+        </property>
+    </bean>
+</beans>
