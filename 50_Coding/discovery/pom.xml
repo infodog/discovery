@@ -11,7 +11,6 @@
 
     <modules>
         <module>search</module>
-        <module>insights</module>
     </modules>
 
     <properties>
